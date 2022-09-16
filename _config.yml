@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abu Ubaida Akash"
-  avatar           : "dp_3.jpg"
+  avatar           : "dp_2.jpg"
   bio              : "Computer Science Student"
   location         : "Dhaka, Bangladesh"
   employer         :
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
