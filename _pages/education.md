@@ -11,8 +11,8 @@ ___
 
 `May 2017 --- January 2022`
 * [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/), Dhaka, Bangladesh.
-* **CGPA:** **3.52** _[on a scale of 4.00]_.
-    * **Last Four Semesters:** **3.72** _[on a scale of 4.00]_.
+* **CGPA:** ==3.52== _[on a scale of 4.00]_.
+    * **Last Four Semesters:** ==3.72== _[on a scale of 4.00]_.
 * **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data.
 * **Thesis Presentation:** [Presentation](https://abuubaida.github.io/education/).
 * **Thesis Supervisor:** Prof. Dr. Mohammad Shafiul Alam, Professor & Head, CSE Department.
