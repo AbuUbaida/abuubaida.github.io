@@ -10,8 +10,8 @@ author_profile: true
 ___
 
 * [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/), Dhaka, Bangladesh.
-* **CGPA:** ==3.52== _[on a scale of 4.00]_.
-    * **Last Four Semesters:** ==3.72== _[on a scale of 4.00]_.
+* **CGPA:** <mark>3.52</mark> _[on a scale of 4.00]_.
+    * **Last Four Semesters:** <mark>3.72</mark> _[on a scale of 4.00]_.
 * **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data.
 * **Thesis Presentation:** [Presentation](https://abuubaida.github.io/education/).
 * **Thesis Supervisor:** Prof. Dr. Mohammad Shafiul Alam, Professor & Head, CSE Department.
@@ -24,7 +24,7 @@ ___
 ___
 
 * [Adamjee Cantonment College (ACC)](http://mail.acc.edu.bd/), Dhaka, Bangladesh.
-* **GPA:** **5.00** _[on a scale of 5.00]_.
+* **GPA:** <mark>5.00</mark> _[on a scale of 5.00]_.
 `**July 2014** - **July 2016**`
 
 
@@ -34,5 +34,5 @@ ___
 ___
 
 * [Uttara High School and College (UHSC)](http://uhscdhaka.edu.bd/), Dhaka, Bangladesh.
-* **GPA:** **5.00** _[on a scale of 5.00]_.
+* **GPA:** <mark>5.00</mark> _[on a scale of 5.00]_.
 `**January 2007** - **May 2014**`
