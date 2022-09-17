@@ -5,4 +5,26 @@ title: "Education"
 author_profile: true
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## Bachelor of Science (B.Sc.) in Computer Science and Engineering
+
+* Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
+* CGPA: **3.52** _[on a scale of 4.00]_.
+    * Last Four Semesters: **3.72** _[on a scale of 4.00]_.
+* Thesis Title: Development of Machine Learning Models for Crime Prediction using Historical Data.
+* Thesis Supervisor: Prof. Dr. Mohammad Shafiul Alam, Professor & Head, CSE Department.
+* Thesis Presentation: [Presentation].
+* Timeline: `May 2017 -- January 2022`.
+
+
+## Higher Secondary Certificate (H.S.C.) in Science
+
+* Adamjee Cantonment College (ACC), Dhaka, Bangladesh.
+* GPA: **5.00** _[on a scale of 5.00]_.
+* Timeline: `July 2014 -- July 2016`.
+
+
+## Secondary School Certificate (S.S.C.) in Science
+
+* Uttara High School and College (UHSC), Dhaka, Bangladesh.
+* GPA: **5.00** _[on a scale of 5.00]_.
+* Timeline: `January 2007 -- May 2014`.
