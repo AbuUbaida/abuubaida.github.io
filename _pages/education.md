@@ -18,6 +18,7 @@ ___
 `**May 2017** - **January 2022**`
 
 
+
 ## 🏫 Higher Secondary Certificate (H.S.C.) in Science
 
 ___
@@ -25,6 +26,7 @@ ___
 * [Adamjee Cantonment College (ACC)](http://mail.acc.edu.bd/), Dhaka, Bangladesh.
 * **GPA:** **5.00** _[on a scale of 5.00]_.
 `**July 2014** - **July 2016**`
+
 
 
 ## 🏫 Secondary School Certificate (S.S.C.) in Science
