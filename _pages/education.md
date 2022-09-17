@@ -7,7 +7,7 @@ author_profile: true
 
 ## 🎓 Bachelor of Science (B.Sc.) in Computer Science and Engineering
 
----
+___
 
 `May 2017 --- January 2022`
 * [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/), Dhaka, Bangladesh.
@@ -20,7 +20,7 @@ author_profile: true
 
 ## 🏫 Higher Secondary Certificate (H.S.C.) in Science
 
----
+___
 
 `July 2014 --- July 2016`
 * [Adamjee Cantonment College (ACC)](http://mail.acc.edu.bd/), Dhaka, Bangladesh.
@@ -29,7 +29,7 @@ author_profile: true
 
 ## 🏫 Secondary School Certificate (S.S.C.) in Science
 
----
+___
 
 `January 2007 --- May 2014`
 * [Uttara High School and College (UHSC)](http://uhscdhaka.edu.bd/), Dhaka, Bangladesh.
