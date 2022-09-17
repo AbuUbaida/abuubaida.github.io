@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-    `May 2017 - January 2022`
+~~~~`May 2017 - January 2022`
 * [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/, "https://www.aust.edu/"), Dhaka, Bangladesh.
 * **CGPA:** 3.52 _[on a scale of 4.00]_.
     * <mark>Last Four Semesters:</mark> 3.72 _[on a scale of 4.00]_.
