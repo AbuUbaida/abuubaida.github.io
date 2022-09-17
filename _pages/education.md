@@ -16,7 +16,7 @@ ___
 * **Thesis Presentation:** [Presentation](https://abuubaida.github.io/education/).
 * **Thesis Supervisor:** Prof. Dr. Mohammad Shafiul Alam, Professor & Head, CSE Department.
 
-`May 2017 - January 2022`
+<b>`May 2017 - January 2022`</b>
 
 
 
