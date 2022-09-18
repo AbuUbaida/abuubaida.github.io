@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## <img src="https://img.icons8.com/glyph-neue/64/000000/code-fork.png"/> Open-Source Contributions
+## <img src="https://img.icons8.com/glyph-neue/32/000000/code-fork.png"/> Open-Source Contributions
 
 ---
 
@@ -25,7 +25,7 @@ author_profile: true
 
 
 
-## ⚒️ 🛠️ Experimental Projects
+## 🛠️ Experimental Projects
 
 ---
 
