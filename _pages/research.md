@@ -36,10 +36,10 @@ author_profile: true
 
 * **Title:** A Large-Scale Dataset, Criteria and Models for Multilingual Headline Generation.\\
 **Authors:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Samsul Islam.\\
-**Status:** `ongoing`.
+**Status:** <b>`ongoing`</b>.
 
 * **Title:** Crime Incident Prediction using Machine Learning: A Case Study on Bangladesh.\\
-**Authors:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Dr. Muhammad Ibrahim, Dr. Mohammad Shafiul Alam. _[*equal contribution]_\\
+**Authors:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Dr. Muhammad Ibrahim, Dr. Mohammad Shafiul Alam. <span style="color:SlateBlue">_[*equal contribution]_</span>\\
 **Venue:** [Journal of Quantitative Criminology, 2022 - Springer](https://www.springer.com/journal/10940 "https://www.springer.com/journal/10940").\\
 **Location:** Taipei, Taiwan.\\
 **Status:** `under-review`.
