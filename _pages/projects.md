@@ -25,7 +25,7 @@ author_profile: true
 
 
 
-## Academic Projects
+## ⚒️ 🛠️ Experimental Projects
 
 ---
 
