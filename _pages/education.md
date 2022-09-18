@@ -19,14 +19,13 @@ author_profile: true
 * **Selective Courses:** Mathematics(I-IV), Software Development(I-V), Discrete Mathematics, Data Structures, Algorithms, Assembly Language Programming, Operating System, Information System Design and Software Engineering, Artificial Intelligence, Distributed Database Systems, Formal Languages & Compilers, Computer Graphics, Pattern Recognition, Digital Image Processing, Soft Computing.
 
 
-
+`July 2014 - July 2016`
 ## <img src="https://img.icons8.com/office/20/000000/diploma.png"/> Higher Secondary Certificate (H.S.C.) in Science
 
 ---
 
 * [Adamjee Cantonment College (ACC)](http://mail.acc.edu.bd/, "http://mail.acc.edu.bd/"), Dhaka, Bangladesh.
 * **GPA:** 5.00 _[on a scale of 5.00]_.
-* `July 2014 - July 2016`
 
 
 
