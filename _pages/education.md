@@ -19,7 +19,7 @@ author_profile: true
 
 
 
-## <img src="https://img.icons8.com/office/24/000000/diploma.png"/> Higher Secondary Certificate (H.S.C.) in Science
+## <img src="https://img.icons8.com/office/20/000000/diploma.png"/> Higher Secondary Certificate (H.S.C.) in Science
 
 ---
 
@@ -29,7 +29,7 @@ author_profile: true
 
 
 
-## <img src="https://img.icons8.com/office/24/000000/diploma.png"/> Secondary School Certificate (S.S.C.) in Science
+## <img src="https://img.icons8.com/office/20/000000/diploma.png"/> Secondary School Certificate (S.S.C.) in Science
 
 ---
 
