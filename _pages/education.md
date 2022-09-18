@@ -16,6 +16,7 @@ author_profile: true
 * **Thesis Presentation:** [Presentation](https://abuubaida.github.io/files/bsc_thesis_presentation_2022.pdf "Presentation PDF").
 * **Thesis Supervisor:** [Prof. Dr. Mohammad Shafiul Alam](https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam, "Academic Profile"), Professor & Head, CSE Department.
 * `May 2017 - January 2022`
+* **Selective Courses:** Mathematics(I-IV), Software Development(I-V), Discrete Mathematics, Data Structures, Algorithms, Assembly Language Programming, Operating System, Information System Design and Software Engineering, Artificial Intelligence, Distributed Database Systems, Formal Languages & Compilers, Computer Graphics, Pattern Recognition, Digital Image Processing, Soft Computing.
 
 
 
