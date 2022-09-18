@@ -25,7 +25,7 @@ author_profile: true
 
 
 
-## <img src="https://img.icons8.com/external-dygo-kerismaker/24/000000/external-Project-crowdfunding-dygo-kerismaker.png"/>🛠️ Experimental Projects
+## <img src="https://img.icons8.com/external-dygo-kerismaker/24/000000/external-Project-crowdfunding-dygo-kerismaker.png"/> Experimental Projects
 
 ---
 
