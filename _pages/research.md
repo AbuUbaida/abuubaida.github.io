@@ -29,21 +29,19 @@ author_profile: true
 ---
 
 * **Title:** Bengali Headline Generation using Auxiliary Information.\\
-**Authors:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Tanvir Islam.
-**Venue:** [Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics: AACL-IJCNLP 2022](https://www.aacl2022.org/ "https://www.aacl2022.org/").
-**Location:** Taipei, Taiwan.
+**Authors:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Tanvir Islam.\\
+**Venue:** [Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics: AACL-IJCNLP 2022](https://www.aacl2022.org/ "https://www.aacl2022.org/").\\
+**Location:** Taipei, Taiwan.\\
 **Status:** `under-review`.
 
-* **Title:** Bengali Headline Generation using Auxiliary Information.
-**Authors:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Tanvir Islam.
-**Venue:** [Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics: AACL-IJCNLP 2022](https://www.aacl2022.org/ "https://www.aacl2022.org/").
-**Location:** Taipei, Taiwan.
-**Status:** `under-review`.
+* **Title:** A Large-Scale Dataset, Criteria and Models for Multilingual Headline Generation.\\
+**Authors:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Samsul Islam.\\
+**Status:** `ongoing`.
 
-* **Title:** Bengali Headline Generation using Auxiliary Information.
-**Authors:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Tanvir Islam.
-**Venue:** [Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics: AACL-IJCNLP 2022](https://www.aacl2022.org/ "https://www.aacl2022.org/").
-**Location:** Taipei, Taiwan.
+* **Title:** Crime Incident Prediction using Machine Learning: A Case Study on Bangladesh.\\
+**Authors:** Faisal Tareque Shohan*, <ins>Abu Ubaida Akash</ins>*, Dr. Muhammad Ibrahim, Dr. Mohammad Shafiul Alam.\\
+**Venue:** [Journal of Quantitative Criminology, 2022 - Springer](https://www.springer.com/journal/10940 "https://www.springer.com/journal/10940").\\
+**Location:** Taipei, Taiwan.\\
 **Status:** `under-review`.
 
 <!-- {% for post in site.research reversed %}
