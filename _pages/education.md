@@ -5,7 +5,7 @@ title: "Education"
 author_profile: true
 ---
 
-## <img src="https://img.icons8.com/office/32/000000/graduation-cap.png"/>🎓 Bachelor of Science (B.Sc.) in Computer Science and Engineering
+## <img src="https://img.icons8.com/office/24/000000/graduation-cap.png"/> Bachelor of Science (B.Sc.) in Computer Science and Engineering
 
 ---
 
@@ -29,7 +29,7 @@ author_profile: true
 
 
 
-## <img src="https://img.icons8.com/officel/24/000000/school.png"/> Secondary School Certificate (S.S.C.) in Science
+## <img src="https://img.icons8.com/office/24/000000/diploma.png"/> Secondary School Certificate (S.S.C.) in Science
 
 ---
 

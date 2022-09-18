@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## <img src="https://img.icons8.com/dusk/32/000000/open-source.png"/> Open-Source Contributions
+## <img src="https://img.icons8.com/dusk/24/000000/open-source.png"/> Open-Source Contributions
 
 ---
 
