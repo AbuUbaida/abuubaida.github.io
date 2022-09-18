@@ -12,4 +12,4 @@ This is Abu Ubaida's Personal Webpage.
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=m&d=X4zwla3VvqasU-XJ7VSxuAHNSZMeubSgPKEAJMvahJU&co=0b4975&cmo=ffb853&cmn=cc3a3a&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=94b2d3&w=a&t=m&d=X4zwla3VvqasU-XJ7VSxuAHNSZMeubSgPKEAJMvahJU&co=1d4560&cmo=e8ae23&cmn=ff696b&ct=ffffff'></script>
