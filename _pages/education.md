@@ -29,7 +29,7 @@ author_profile: true
 
 
 
-## 🏫 Secondary School Certificate (S.S.C.) in Science
+## <img src="https://img.icons8.com/officel/16/000000/school.png"/> Secondary School Certificate (S.S.C.) in Science
 
 ---
 
