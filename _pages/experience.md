@@ -34,8 +34,9 @@ author_profile: true
 
 ---
 
-* General Member at AUST Innovation and Design Club
+* General Member at AUST Innovation and Design Club (AUSTIDC)
     * Duration: ~4 years _(May 2017 – December 2021)_
+    * AUSTIDC ID: 1702271
     * Affiliation: Ahsanullah University of Science and Technology
 
 * Communication Responsible at Mozilla
