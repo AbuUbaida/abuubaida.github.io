@@ -30,7 +30,7 @@ author_profile: true
 
 * **Title:** Bengali Headline Generation using Auxiliary Information.\\
 **Authors:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Tanvir Islam.\\
-**Venue:** [Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics: AACL-IJCNLP 2022](https://www.aacl2022.org/ "https://www.aacl2022.org/").\\
+**Venue:** Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics: [AACL-IJCNLP 2022](https://www.aacl2022.org/ "https://www.aacl2022.org/").\\
 **Location:** Taipei, Taiwan.\\
 **Status:** `under-review`.
 
