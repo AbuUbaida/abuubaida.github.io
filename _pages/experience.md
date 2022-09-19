@@ -13,7 +13,7 @@ author_profile: true
 
 * **Machine Learning Research Engineer**\\
 [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
-    * **Duration: 8 months** _(September 2021 - April 2022)_
+    * **Duration: 8 months** _(September 2021 – April 2022)_
     * Implemented a G2P model for Bengali and gained state-of-the-art accuracy (99%) on unseen data.
     * Prepared large-scale (nearly 600 hours) audio data for better Bengali ASR training.
     * Speech synthesis: Implemented Coqui TTS models for low-resourced language like Bengali.
@@ -24,7 +24,7 @@ author_profile: true
 
 * **Machine Learning Research Intern**\\
 [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
-    * **Duration: 3 months** _(June 2021 - August 2021)_
+    * **Duration: 3 months** _(June 2021 – August 2021)_
     * Developed the pipeline for Bengali text normalization and punctuation restoration.
     * Reviewed the literature of the related technologies.
 
@@ -35,17 +35,17 @@ author_profile: true
 ---
 
 * **<span style="color:SlateBlue">General Member</span>** at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
-    * Duration: ~4 years _(May 2017 – December 2021)_
-    * AUSTIDC ID: 1702271
-    * Affiliation: Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
+    * **Duration:** ~4 years _(May 2017 – December 2021)_
+    * **AUSTIDC ID:** 1702271
+    * **Affiliation:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
 * **<span style="color:SlateBlue">Communication Responsible</span>** at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website")
-    * Duration: Less than 1 month _(January 2018 – January 2018)_
-    * Affiliation: Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
+    * **Duration:** Less than 1 month _(January 2018 – January 2018)_
+    * **Affiliation:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
 * **<span style="color:SlateBlue">Content Developer</span>** at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
-    * Duration: 3 months _(June 2018 – August 2018)_
-    * Affiliation: Durbin Labs Limited
+    * **Duration:** 3 months _(June 2018 – August 2018)_
+    * **Affiliation:** Durbin Labs Limited
 
 ## Contests & Participations
 
