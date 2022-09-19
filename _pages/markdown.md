@@ -14,7 +14,7 @@ redirect_from:
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _research/
-  * _portfolio/
+  * _experience/
   * _posts/
   * _teaching/
   * _talks/
