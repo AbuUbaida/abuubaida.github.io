@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Get the full CV of Abu Ubaida Akash ([here](https://abuubaida.github.io/cv/ "https://abuubaida.github.io/cv/")). <span style="color:SlateBlue">_[Last updated on: September 20, 2022]_</span>
+
+<!-- Education
 ======
 * Bachelor of Science in Computer Science and Engineering, Ahsanullah University of Science and Technology, 2017-2022
 * M.S. in Jekyll, GitHub University, 2014
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
