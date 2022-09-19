@@ -20,6 +20,8 @@ Dhaka, Bangladesh
     * Conversational AI: Developed AI-driven chatbots using Rasa Open Source.
     * Bengali transcriber: Developed in team Bengali transcriber; already in use.
 <br/>
+<br/>
+<br/>
 
 * **Machine Learning Research Intern**\\
 [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/") _(June 2021 - August 2021)_\\
