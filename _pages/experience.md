@@ -11,9 +11,9 @@ author_profile: true
 
 ---
 
-* **Machine Learning Research Engineer**\\
-[Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/")  <small>**_(September 2021 - April 2022)_**</small>\\
-Dhaka, Bangladesh
+* **Machine Learning Research Engineer**\\ \\
+[Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
+`September 2021 - April 2022`
     * Implemented a G2P model for Bengali and gained state-of-the-art accuracy (99%) on unseen data.
     * Prepared large-scale (nearly 600 hours) audio data for better Bengali ASR training.
     * Speech synthesis: Implemented Coqui TTS models for low-resourced language like Bengali.
@@ -22,9 +22,9 @@ Dhaka, Bangladesh
 <br/>
 <br/>
 
-* **Machine Learning Research Intern**\\
-[Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/")  <small>**_(June 2021 - August 2021)_**</small>\\
-Dhaka, Bangladesh
+* **Machine Learning Research Intern**\\ \\
+[Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
+`June 2021 - August 2021`
     * Developed the pipeline for Bengali text normalization and punctuation restoration.
     * Reviewed the literature of the related technologies.
 
