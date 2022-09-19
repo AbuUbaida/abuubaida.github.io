@@ -18,7 +18,7 @@ author_profile: true
     * Prepared large-scale (nearly 600 hours) audio data for better Bengali ASR training.
     * Speech synthesis: Implemented Coqui TTS models for low-resourced language like Bengali.
     * Conversational AI: Developed AI-driven chatbots using Rasa Open Source.
-    * Bengali transcriber: Developed in team Bengali transcriber; already in use.
+    * [Bengali transcriber](https://sensevoice.intelsense.ai/ "https://sensevoice.intelsense.ai/"): Developed in team Bengali transcriber; already in use.
 <br/>
 <br/>
 
@@ -51,6 +51,13 @@ author_profile: true
 
 ---
 
+* Robi-Datathon 2.0 | 2022 | **Finalist** (Top 6% among 358 Teams) | [Robi Axiata Limited](https://www.robi.com.bd/en)
+* Intra AUST Programming Contest | Spring 2019 | [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse")
+* Game Showcasing Competition | Spring 2018 | **2nd Place** | [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/")
+* Intra AUST Project Showcasing | Spring 2018 | [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse")
+* Innoventure Engineering Olympiad | Spring 2017 | [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/")
+* Web Compatibility Sprint | Spring 2017 | [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/")
+* 1st AML-ACC National Science Festival | 2014 | [Neutrino ACC Science Club](https://www.nasc.com.de/)
 
 <!-- {% for post in site.experience %}
   {% include archive-single.html %}
