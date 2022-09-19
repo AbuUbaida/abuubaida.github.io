@@ -53,13 +53,13 @@ author_profile: true
 
 ---
 
-* Robi-Datathon 2.0 | 2022 | **Finalist** (Top 6% among 358 Teams) | [Robi Axiata Limited](https://www.robi.com.bd/en)
-* Intra AUST Programming Contest | Spring 2019 | [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse")
-* Game Showcasing Competition | Spring 2018 | **2nd Place** | [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/")
-* Intra AUST Project Showcasing | Spring 2018 | [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse")
-* Innoventure Engineering Olympiad | Spring 2017 | [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/")
-* Web Compatibility Sprint | Spring 2017 | [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/")
-* 1st AML-ACC National Science Festival | 2014 | [Neutrino ACC Science Club](https://www.nasc.com.de/)
+* Robi-Datathon 2.0 **Finalist** (Top 6% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_
+* Intra AUST Programming Contest organized by [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse") _(Spring 2019)_
+* Game Showcasing Competition **1st Runner-Up** organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2018)_
+* Intra AUST Project Showcasing organized by [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse") _(Spring 2018)_
+* Innoventure Engineering Olympiad organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2017)_
+* Web Compatibility Sprint organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2017)_
+* 1st AML-ACC National Science Festival organized by [Neutrino ACC Science Club](https://www.nasc.com.de/) _(2014)_
 
 <!-- {% for post in site.experience %}
   {% include archive-single.html %}
