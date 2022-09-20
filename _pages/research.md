@@ -39,7 +39,7 @@ author_profile: true
 **Status:** `ongoing`.
 
 * **Title:** Crime Incident Prediction using Machine Learning: A Case Study on Bangladesh.\\
-**Authors:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Dr. Muhammad Ibrahim, Dr. Mohammad Shafiul Alam. <span style="color:DarkBlue">_[*equal contribution]_</span>\\
+**Authors:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Dr. Muhammad Ibrahim, Dr. Mohammad Shafiul Alam. <span style="color:RoyalBlue">_[*equal contribution]_</span>\\
 **Venue:** Journal of Quantitative Criminology, [Springer-2022](https://www.springer.com/journal/10940 "https://www.springer.com/journal/10940").\\
 **Location:** Taipei, Taiwan.\\
 **Status:** `under-review`.
