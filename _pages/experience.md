@@ -35,7 +35,7 @@ author_profile: true
 ---
 
 * **General Member** at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
-    * **Duration: ~4 years** _(May 2017 – December 2021)_
+    * **Duration: 3.8 years** _(May 2017 – December 2021)_
     * AUSTIDC ID 1702271
     * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 

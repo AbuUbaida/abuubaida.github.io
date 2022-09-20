@@ -17,7 +17,7 @@ Previously, I worked as a Research Engineer at [Intelsense AI](https://intelsens
 {: .notice}
 
 
-## 📢 News
+## 📢 Recent News
 
 
 * <span style="color:RoyalBlue">[September 25, 2022]</span> Submitted one of our research papers in the Journal of Quantitative Criminology <small>(Impact Factor 4.330).

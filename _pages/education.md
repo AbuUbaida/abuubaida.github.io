@@ -9,8 +9,8 @@ author_profile: true
 
 ---
 
-* `May 2017 – January 2022`
-* Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")), Dhaka, Bangladesh.
+* **Duration:** 4.8 years _(May 2017 – January 2022)_
+* **Institution:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")), Dhaka, Bangladesh.
 * **CGPA:** 3.52 _[on a scale of 4.00]_.
     * **<span style="color:RoyalBlue">Last Four Semesters:</span>** 3.72 _[on a scale of 4.00]_.
 * **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data. _[[paper](https://abuubaida.github.io/files/bsc_thesis_paper_2022.pdf "Paper PDF")]_
@@ -40,8 +40,8 @@ author_profile: true
 
 ---
 
-* `July 2014 – July 2016`
-* Adamjee Cantonment College ([ACC](http://mail.acc.edu.bd/, "http://mail.acc.edu.bd/")), Dhaka, Bangladesh.
+* **Duration:** 2 years _(July 2014 – July 2016)_
+* **Institution:** Adamjee Cantonment College ([ACC](http://mail.acc.edu.bd/, "http://mail.acc.edu.bd/")), Dhaka, Bangladesh.
 * **GPA:** 5.00 _[on a scale of 5.00]_.
 
 
@@ -50,6 +50,6 @@ author_profile: true
 
 ---
 
-* `January 2007 – May 2014`
-* Uttara High School and College ([UHSC](http://uhscdhaka.edu.bd/ "http://uhscdhaka.edu.bd/")), Dhaka, Bangladesh.
+* **Duration:** 2 years _(January 2012 – January 2014)_
+* **Institution:** Uttara High School and College ([UHSC](http://uhscdhaka.edu.bd/ "http://uhscdhaka.edu.bd/")), Dhaka, Bangladesh.
 * **GPA:** 5.00 _[on a scale of 5.00]_.
