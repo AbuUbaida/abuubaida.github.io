@@ -13,13 +13,12 @@ My name is Abu Ubaida Akash and I prefer to be called Ubaida. I am an independen
 
 Previously, I worked as a Research Engineer at [Intelsense AI](https://intelsense.ai/) under the Speech and Engineering Division. I received my bachelor's degree in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/ "https://www.aust.edu/"), Dhaka, Bangladesh.
 
-<img src="https://img.icons8.com/color/24/000000/circled-envelope.png"/> **Email:** <span style="color:SlateBlue">akash [dot] ubaida [at] gmail [dot] com</span> <span style="color:Blue">akash [dot] ubaida [at] gmail [dot] com</span> <span style="color:DarkBlue">akash [dot] ubaida [at] gmail [dot] com</span>
+<img src="https://img.icons8.com/color/24/000000/circled-envelope.png"/> **Email:** <span style="color:Blue">akash [dot] ubaida [at] gmail [dot] com</span> 
 {: .notice}
 
 
 ## 📢 News
 
----
 
 * <span style="color:SlateBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
 * <span style="color:DarkBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
