@@ -34,16 +34,16 @@ author_profile: true
 
 ---
 
-* **<span style="color:DarkBlue">General Member</span>** at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
+* <span style="color:DarkBlue">General Member</span> at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
     * **Duration:** ~4 years _(May 2017 – December 2021)_
     * **AUSTIDC ID:** 1702271
     * **Affiliation:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
-* **<span style="color:DarkBlue">Communication Responsible</span>** at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website")
+* <span style="color:DarkBlue">Communication Responsible</span> at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website")
     * **Duration:** Less than 1 month _(January 2018 – January 2018)_
     * **Affiliation:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
-* **<span style="color:DarkBlue">Content Developer</span>** at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
+* <span style="color:DarkBlue">Content Developer</span> at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
     * **Duration:** 3 months _(June 2018 – August 2018)_
     * **Affiliation:** Durbin Labs Limited
 
