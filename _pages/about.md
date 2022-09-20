@@ -21,7 +21,7 @@ Previously, I worked as a Research Engineer at [Intelsense AI](https://intelsens
 
 
 * <span style="color:DarkBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
-* <span style="color:DarkBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
+* <span style="color:RoyalBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
 * <span style="color:DarkBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
 * <span style="color:DarkBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
 * <span style="color:DarkBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.

@@ -34,16 +34,16 @@ author_profile: true
 
 ---
 
-* <span style="color:DarkBlue">General Member</span> at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
+* <span style="color:RoyalBlue">General Member</span> at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
     * **Duration:** ~4 years _(May 2017 – December 2021)_
     * **AUSTIDC ID:** 1702271
     * **Affiliation:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
-* <span style="color:DarkBlue">Communication Responsible</span> at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website")
+* <span style="color:RoyalBlue">Communication Responsible</span> at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website")
     * **Duration:** Less than 1 month _(January 2018 – January 2018)_
     * **Affiliation:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
-* <span style="color:DarkBlue">Content Developer</span> at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
+* <span style="color:RoyalBlue">Content Developer</span> at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
     * **Duration:** 3 months _(June 2018 – August 2018)_
     * **Affiliation:** Durbin Labs Limited
 
@@ -53,9 +53,9 @@ author_profile: true
 
 ---
 
-* Robi-Datathon 2.0 **<span style="color:DarkBlue">Finalist</span>** (Top 6% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_
+* Robi-Datathon 2.0 **<span style="color:RoyalBlue">Finalist</span>** (Top 6% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_
 * Intra AUST Programming Contest organized by [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse") _(Spring 2019)_
-* Game Showcasing Competition **<span style="color:DarkBlue">1st Runner-Up</span>**; organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2018)_
+* Game Showcasing Competition **<span style="color:RoyalBlue">1st Runner-Up</span>**; organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2018)_
 * Intra AUST Project Showcasing organized by [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse") _(Spring 2018)_
 * Innoventure Engineering Olympiad organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2017)_
 * Web Compatibility Sprint organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2017)_
