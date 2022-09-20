@@ -30,4 +30,4 @@ Previously, I worked as a Research Engineer at [Intelsense AI](https://intelsens
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=94b2d3&w=350&t=m&d=X4zwla3VvqasU-XJ7VSxuAHNSZMeubSgPKEAJMvahJU&co=1d4560&cmo=e8ae23&cmn=db2124&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=94b2d3&w=300&t=m&d=X4zwla3VvqasU-XJ7VSxuAHNSZMeubSgPKEAJMvahJU&co=1d4560&cmo=e8ae23&cmn=db2124&ct=ffffff'></script>
