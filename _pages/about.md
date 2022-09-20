@@ -20,13 +20,14 @@ Previously, I worked as a Research Engineer at [Intelsense AI](https://intelsens
 ## 📢 News
 
 
-* <span style="color:RoyalBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
-* <span style="color:RoyalBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
-* <span style="color:RoyalBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
-* <span style="color:RoyalBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
-* <span style="color:RoyalBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
-* <span style="color:RoyalBlue">[September 20, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
-* <span style="color:RoyalBlue">[January 03, 2022]</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing.
+* <span style="color:RoyalBlue">[September 25, 2022]</span> Submitted one of our research papers in the Journal of Quantitative Criminology <small>(Impact Factor 4.330).
+* <span style="color:RoyalBlue">[July 15, 2022]</span> Submitted one of our research papers in AACL-IJCNLP 2022.
+* <span style="color:RoyalBlue">[June 15, 2022]</span> Selected as one of the finalists in the Robi-Datathon 2.0 competition.
+* <span style="color:RoyalBlue">[May 01, 2022]</span> Resigned from the full-time job of Intelsense AI.
+* <span style="color:RoyalBlue">[February 22, 2022]</span> Officially completed my bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
+* <span style="color:RoyalBlue">[January 03, 2022]</span> Successfuly defended my undergraduate thesis!
+* <span style="color:RoyalBlue">[September 01, 2022]</span> Got promoted as Machine Learning Research Engineer at Intelsense AI under the Speech and Engineering Division.
+* <span style="color:RoyalBlue">[June 01, 2021]</span> Started 3 months long internship at Intelsense AI as a Machine Learning Research Intern.
 
 ---
 
