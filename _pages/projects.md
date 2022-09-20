@@ -17,11 +17,10 @@ author_profile: true
 * Detail usage can be found [here](https://github.com/AbuUbaida/BenSim "GitHub").
 
 ### mSentsTokenizer
-* Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-* Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-* Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-* Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-* Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+* A Python package for tokenizing multilingual documents at sentence level.
+* Users will provide a document to be segmented and the language of the document as inputs. Currently, there are supports for 41 languages ranged from low to high resource, which belong to 10 different languages families ( _i.e._ Afro-Asiatic, Indo-European, Sino-Tibetan, Austronesian, Japanese, Altaic, Dravidian, Tai-Kadai, Austro-Asiatic, and Niger-Congo).
+* mSentsTokenizer matches the input language with the available supports of language from the pre-existing packages and simply invokes the corresponding package to tokenize the input document. Finally, this will return a list of sentences as the output.
+* Detail usage can be found [here](https://github.com/AbuUbaida/mSentsTokenizer "GitHub").
 
 
 
