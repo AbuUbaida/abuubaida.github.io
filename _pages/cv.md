@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Get the full CV of Abu Ubaida Akash ([here](https://abuubaida.github.io/cv/ "https://abuubaida.github.io/cv/")). <span style="color:SlateBlue">_[Last updated on September 20, 2022]_</span>
+Get the full CV of Abu Ubaida Akash ([here](https://abuubaida.github.io/cv/ "https://abuubaida.github.io/cv/")). <span style="color:RoyalBlue">_[Last updated on September 20, 2022]_</span>
 
 <!-- Education
 ======
