@@ -18,7 +18,7 @@ author_profile: true
     * Prepared large-scale (nearly 600 hours) audio data for better Bengali ASR training.
     * Speech synthesis: Implemented Coqui TTS models for low-resourced language like Bengali.
     * Conversational AI: Developed AI-driven chatbots using Rasa Open Source.
-    * [Bengali transcriber](https://sensevoice.intelsense.ai/ "https://sensevoice.intelsense.ai/"): Developed in team Bengali transcriber; already in use.
+    * [Bengali transcriber](https://sensevoice.intelsense.ai/ "https://sensevoice.intelsense.ai/"): Prepared the annotated corpus for the Bengali transcriber; already in use.
 <br/>
 <br/>
 
