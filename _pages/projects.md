@@ -28,7 +28,7 @@ author_profile: true
 
 ---
 
-* **Question Similarity Assessment using Transfer Learning:** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+* **Question Similarity Assessment using Transfer Learning:** The basic workflow of transfer learning from a general pre-trained language model ([BERT](https://arxiv.org/abs/1810.04805)) to a specific task of similarity assessment was practiced. For this task, the [Quora dataset](https://huggingface.co/datasets/quora) was utilized, which is composed of question pairs for the task to determine if the qustions are paraphrases of each other (have the same meaning). For avoiding the model level complexity and to minimize the expensive GPU cost, a basic transformer model ([bert-base-uncased](https://huggingface.co/bert-base-uncased)) was used from [HuggingFace](https://huggingface.co/) library. The codebase can be found [here](https://github.com/AbuUbaida/quesSim-bert).
 
 * **Toxic Comment Classification using Transformer:** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
