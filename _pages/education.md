@@ -16,7 +16,7 @@ author_profile: true
 * **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data. _[[paper](https://abuubaida.github.io/files/bsc_thesis_paper_2022.pdf "Paper PDF")]_
 * **Thesis Presentation:** Presentation [Slide](https://abuubaida.github.io/files/bsc_thesis_presentation_2022.pdf "Presentation PDF").
 * **Thesis Supervisor:** Prof. Dr. [Mohammad Shafiul Alam](https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam, "Academic Profile"), Professor & Head, CSE Department.
-* **Selective Courseworks:** Courses listed below are in ascending order by semester, except Mathematics and Software Development.
+* **Selected Courseworks:** Courses listed below are in ascending order by semester, except Mathematics and Software Development.
     * Mathematics(I-IV) _(CSE 1115,1219,2101,2203)_
     * Software Development(I-V) _(CSE 1200,2100,2200,3100,3200)_
     * Discrete Mathematics _(CSE1203)_
