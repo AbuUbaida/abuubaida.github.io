@@ -19,7 +19,7 @@ Previously, I worked as a Research Engineer at [Intelsense AI](https://intelsens
 
 ## 📢 Recent News
 
-* <span style="color:RoyalBlue">[Sep. 26, 2022]</span> Published one of my works in the arXiv.
+* <span style="color:RoyalBlue">[Sep. 30, 2022]</span> Submitted one of my papers in the ARR 2022.
 * <span style="color:RoyalBlue">[Sep. 25, 2022]</span> Submitted one of our research papers in the Journal of Quantitative Criminology <small>(Impact Factor 4.330).
 * <span style="color:RoyalBlue">[Aug. 28, 2022]</span> Submitted the revised version after the rebuttal period.
 * <span style="color:RoyalBlue">[Jul. 15, 2022]</span> Submitted one of my works in AACL-IJCNLP 2022.
