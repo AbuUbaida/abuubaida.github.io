@@ -44,20 +44,28 @@ author_profile: true
 
 * **Bengali Hand Digit Recognition using Deep Neural Network:** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. _[Fall 2020]_
 
-* **Flight Fare Prediction using Machine Learning:** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. _[Fall 2020]_
+* **Flight Fare Prediction using Machine Learning:** python, analysis, data vis,  _[Fall 2020]_
+ 
+* **pl/sql**: cmd run, log. reg. prediction, 4.1, distributed databse, virtual box dual pc
 
-* **Medicine Sheba:** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. _[Spring 2020]_
+**library manageent system**: c#, dot net, online library, filtering on author, genre, 3.2
 
-* **Crime Management System (CMS):** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. _[Fall 2019]_
+* **Medicine Sheba:** isd lab, react, mongo, express, nodejs, cross platform, medicine delivery service; phramacy vs patient, order trachking from pharmacy end _[Spring 2020]_ 3.2
 
-* **Talks of Code:** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. _[Spring 2019]_
+* **Crime Management System (CMS):** java, database lab, mysql, Microsoft SQL Server is a relational database management system (RDBMS), criminal databse management system; custody info, place GD, image storing, advance mysql implementation _[Fall 2019]_ 3.2
 
-* **Check My Trip:** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. _[Fall 2018]_
+* **Talks of Code:** tutorial programming languages, php, html, css _[Spring 2019]_ 3.1
 
-* **Police Assistant:** An android mobile application, was built in the Software Development Lab. _[Spring 2018]_ 
+* **Police Assistant:** An android mobile application, was built in the Software Development Lab. _[Fall 2018]_ 
+two part; admin-poilce, user
+admin-> criminal post, wanted post
+user-> response to all posts; inform police by call; private comment, reward upon justification
+android studio, java, mysql 2.2
 
-* **The Driver:** This is a racing game, was built in the Software Development Lab. Here you can play as a cop & as a racer. The cop has a special bullet by which it can destroy racer car. In the racer mode, there is extra NOS facility for the racer. _[Gameplay](https://youtu.be/HkmhB2Hv_-g)_ _(C++, iGraphics, Visual Studio)_ _[Fall 2017]_
+* **Check My Trip:** A desktop aplication, was developed in the Software Development Lab. Users was able to find nearby visiting places, mosques, hospitals _etc._ by locating their current latitude-longitude. Additionally, there were features like finding distance between two places, setting a location as attractive spot by the local people which may not be shown in Google Map as a visiting place, getting the list of transportation costs from the current location to the destination (especially for a long drive). All the features were implemented by leveraging Google Map API. _(Java, JavaFX, Google Map API)_ _[Spring 2018]_
+
+* **The Driver:** This is a racing game, was built in the Software Development Lab. Here you can play as a cop & as a racer. The cop has a special bullet by which it can destroy racer car. In the racer mode, there is extra NOS facility for the racer. There is a _[gameplay](https://youtu.be/HkmhB2Hv_-g)_ available in the YouTube. _**(C++, iGraphics, Visual Studio)**_ _[Fall 2017]_
 
 ---
 
-[<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://abuubaida.github.io/#)[Top](https://abuubaida.github.io/projects/#)
+[<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://abuubaida.github.io/projects/#)[Top](https://abuubaida.github.io/projects/#)
