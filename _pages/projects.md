@@ -56,8 +56,8 @@ author_profile: true
 
 * **Police Assistant:** An android mobile application, was built in the Software Development Lab. _[Spring 2018]_ 
 
-* **The Driver:** This is a racing game, was built in the Software Development Lab. Here you can play as a cop & as a racer. The cop has a special bullet by which it can destroy racer car. In the racer mode, there is extra NOS facility for the racer. _(C++, iGraphics, Visual Studio)_ _[Fall 2017]_
+* **The Driver:** This is a racing game, was built in the Software Development Lab. Here you can play as a cop & as a racer. The cop has a special bullet by which it can destroy racer car. In the racer mode, there is extra NOS facility for the racer. _[Gameplay](https://youtu.be/HkmhB2Hv_-g)_ _(C++, iGraphics, Visual Studio)_ _[Fall 2017]_
 
 ---
 
-[Top](https://abuubaida.github.io/projects/#)
+:[Top](https://abuubaida.github.io/projects/#)
