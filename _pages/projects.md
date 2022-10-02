@@ -60,4 +60,4 @@ author_profile: true
 
 ---
 
-[🔝Back to Top](https://abuubaida.github.io/projects/#)
+[<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://abuubaida.github.io/#)[Top](https://abuubaida.github.io/projects/#)

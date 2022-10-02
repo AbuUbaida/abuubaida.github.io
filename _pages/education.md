@@ -53,3 +53,7 @@ author_profile: true
 * **Duration:** 2 years _(January 2012 – January 2014)_
 * **Institution:** Uttara High School and College ([UHSC](http://uhscdhaka.edu.bd/ "http://uhscdhaka.edu.bd/")), Dhaka, Bangladesh.
 * **GPA:** 5.00 _[on a scale of 5.00]_.
+
+---
+
+[<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://abuubaida.github.io/#)[Top](https://abuubaida.github.io/education/#)
