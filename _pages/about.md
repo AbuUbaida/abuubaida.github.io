@@ -32,6 +32,6 @@ Previously, I worked as a Research Engineer at [Intelsense AI](https://intelsens
 
 ---
 
-<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/> [Top](https://abuubaida.github.io/#)
+[<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://abuubaida.github.io/#) [Top](https://abuubaida.github.io/#)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=94b2d3&w=300&t=m&d=X4zwla3VvqasU-XJ7VSxuAHNSZMeubSgPKEAJMvahJU&co=1d4560&cmo=e8ae23&cmn=db2124&ct=ffffff'></script>
