@@ -18,8 +18,8 @@ author_profile: true
 * Natural Language Processing
 * Computational Social Science
 * Information Retrieval
-* Conversational AI
 * Data Mining
+* Conversational AI
 * Machine Learning
 
 ## Ongoing Projects
