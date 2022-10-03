@@ -42,29 +42,25 @@ author_profile: true
 
 ---
 
-* **Bengali Hand Digit Recognition using Deep Neural Network:** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. _[Fall 2020]_
+* **Bengali Handwritten Digit Recognition using Deep Neural Network:** Implemented a deep neural network model for Bengali handwritten digit classification in the Soft Computing Lab. Experimented with different hyper-parameter settings. <span style="color:RoyalBlue">(DNN, PyTorch)</span> _[Fall 2020]_
 
-* **Flight Fare Prediction using Machine Learning:** python, analysis, data vis,  _[Fall 2020]_
+* **Flight Fare Prediction using Machine Learning:** A project for predicitng flight fare of Indian Airlines using classical Machine Learning in the Pattern Recognition Lab. This was a multi-class classification task using Logistic Regression where some rich analyses were demonstrated including Scatter plot, Bar chart, Box plot, Line graph, and so on. <span style="color:RoyalBlue">(Classification, Logistic Regression, Python)</span> _[Fall 2020]_
  
-* **pl/sql**: cmd run, log. reg. prediction, 4.1, distributed databse, virtual box dual pc
+* **House Price Prediction using PL/SQL**: This project was done in the Distributed Database Systems Lab where Logitic Regression was performed in the context of PL/SQL. Training data were stored in the distributed database. Two virtual PCs were created to make a distributed system. One user could perform CRUD operation on the database containing training data; on the other hand, another user could get a prediction on unseen data though command line interface by applying Logisitc Regression rule on the database. <span style="color:RoyalBlue">(PL/SQL, Logistic Regression, Virtual Box)</span> _[Spring 2020]_
 
-**library manageent system**: c#, dot net, online library, filtering on author, genre, 3.2
+* **Library Management System:** A simple web application for digital library management system, was developed in the Software Development Lab. Users were able to search for books based on author, genre, _etc._, borrow books and read them online. <span style="color:RoyalBlue">(C#, Dot Net, MySQL)</span> _[Fall 2019]_
 
-* **Medicine Sheba:** isd lab, react, mongo, express, nodejs, cross platform, medicine delivery service; phramacy vs patient, order trachking from pharmacy end _[Spring 2020]_ 3.2
+* **Medicine Sheba:** A cross platform application for medicine sell & delivery system, was built in the Information System Design and Software Engineering Lab. There was dual-user mode. The general users could serach for necessary medicines from a central databse containing information from all the registered pharmacies' individual database; users could place an order from any specific phramacy and also were able to track their order. On the other hand, the Pharmacies could register themselves, maintain their own database, and sell their products. <span style="color:RoyalBlue">(JavaScript, NoSQL, React Native, MongoDB, Express, Node.js)</span> _[Fall 2019]_
 
-* **Crime Management System (CMS):** java, database lab, mysql, Microsoft SQL Server is a relational database management system (RDBMS), criminal databse management system; custody info, place GD, image storing, advance mysql implementation _[Fall 2019]_ 3.2
+* **Criminal Management System (CMS):** A desktop application for criminal data management, was built in the Database Lab. Law enforcement agencies could manage a relational database of criminals and store all sorts of informations including custody info, general diary info, criminal images and so on. The focus was to perform advanced operations on tables to maintain the dynamic of the CRUD operations. <span style="color:RoyalBlue">(RDBMS, Java, MySQL, MS SQL Server)</span>  _[Spring 2019]_
 
-* **Talks of Code:** tutorial programming languages, php, html, css _[Spring 2019]_ 3.1
+* **Talks of Code:** A website, was built with PHP in the Software Development Lab. The focus was to make a tutorial site for learning programming languages  through reading documents. <span style="color:RoyalBlue">(PHP, HTML, CSS)</span> _[Spring 2019]_
 
-* **Police Assistant:** An android mobile application, was built in the Software Development Lab. _[Fall 2018]_ 
-two part; admin-poilce, user
-admin-> criminal post, wanted post
-user-> response to all posts; inform police by call; private comment, reward upon justification
-android studio, java, mysql 2.2
+* **Police Assistant:** An android mobile application, was built in the Software Development Lab. There was dual-user mode: Admin, General. Law enforcement agencies could act as admin and post information about suspects or wanted persons including their pictures. Regular citizens on the other hand, could act as General user, where they could reponse to any post by in-app call or leaving a private comment. There was a feature of rewarding the informant upon justification. <span style="color:RoyalBlue">(Java, Android Studio, MySQL)</span> _[Fall 2018]_
 
-* **Check My Trip:** A desktop aplication, was developed in the Software Development Lab. Users was able to find nearby visiting places, mosques, hospitals _etc._ by locating their current latitude-longitude. Additionally, there were features like finding distance between two places, setting a location as attractive spot by the local people which may not be shown in Google Map as a visiting place, getting the list of transportation costs from the current location to the destination (especially for a long drive). All the features were implemented by leveraging Google Map API. _(Java, JavaFX, Google Map API)_ _[Spring 2018]_
+* **Check My Trip:** A desktop aplication, was developed in the Software Development Lab. Users was able to find nearby visiting places, mosques, hospitals _etc._ by locating their current latitude-longitude. Additionally, there were features like finding distance between two places, setting a location as attractive spot by the local people which might not be shown in Google Map as a visiting place, getting the list of transportation costs from the current location to the destination (especially for a long drive). All the features were implemented by leveraging Google Map API. <span style="color:RoyalBlue">(Java, JavaFX, Google Map API)</span> _[Spring 2018]_
 
-* **The Driver:** This is a racing game, was built in the Software Development Lab. Here you can play as a cop & as a racer. The cop has a special bullet by which it can destroy racer car. In the racer mode, there is extra NOS facility for the racer. There is a _[gameplay](https://youtu.be/HkmhB2Hv_-g)_ available in the YouTube. _**(C++, iGraphics, Visual Studio)**_ _[Fall 2017]_
+* **The Driver:** This was a racing game, built in the Software Development Lab. Here you can play as a cop & as a racer. The cop has a special bullet by which it can destroy racer car. In the racer mode, there is extra NOS facility for the racer. There is a _[gameplay](https://youtu.be/HkmhB2Hv_-g)_ available in the YouTube. <span style="color:RoyalBlue">(C++, iGraphics, Visual Studio)</span> _[Fall 2017]_
 
 ---
 
