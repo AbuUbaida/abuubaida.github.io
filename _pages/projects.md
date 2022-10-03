@@ -44,11 +44,11 @@ author_profile: true
 
 * **Bengali Handwritten Digit Recognition using Deep Neural Network:** Implemented a deep neural network model for Bengali handwritten digit classification in the Soft Computing Lab. Experimented with different hyper-parameter settings. <span style="color:RoyalBlue">(DNN, PyTorch)</span> _[Fall 2020]_
 
-* **Flight Fare Prediction using Machine Learning:** A project for predicitng flight fare of Indian Airlines using classical Machine Learning in the Pattern Recognition Lab. This was a multi-class classification task using Logistic Regression where some rich analyses were demonstrated including Scatter plot, Bar chart, Box plot, Line graph, and so on. <span style="color:RoyalBlue">(Classification, Logistic Regression, Python)</span> _[Fall 2020]_
+* **Flight Fare Prediction using Machine Learning:** A project for predicitng flight fare of Indian Airlines using classical Machine Learning algorithms in the Pattern Recognition Lab. This was a multi-class classification task using Logistic Regression where some rich analyses were demonstrated including Scatter plot, Bar chart, Box plot, Line graph, and so on. <span style="color:RoyalBlue">(Classification, Logistic Regression, Python)</span> _[Fall 2020]_
  
 * **House Price Prediction using PL/SQL**: This project was done in the Distributed Database Systems Lab where Logitic Regression was performed in the context of PL/SQL. Training data were stored in the distributed database. Two virtual PCs were created to make a distributed system. One user could perform CRUD operation on the database containing training data; on the other hand, another user could get a prediction on unseen data though command line interface by applying Logisitc Regression rule on the database. <span style="color:RoyalBlue">(PL/SQL, Logistic Regression, Virtual Box)</span> _[Spring 2020]_
 
-* **Library Management System:** A simple web application for digital library management system, was developed in the Software Development Lab. Users were able to search for books based on author, genre, _etc._, borrow books and read them online. <span style="color:RoyalBlue">(C#, Dot Net, MySQL)</span> _[Fall 2019]_
+* **Library Management System:** A simple web application for digital library management system, was developed in the Software Development Lab. Users were able to search for books based on author, genre, _etc._, borrow books and read them online. <span style="color:RoyalBlue">(C#, MS .Net, MySQL)</span> _[Fall 2019]_
 
 * **Medicine Sheba:** A cross platform application for medicine sell & delivery system, was built in the Information System Design and Software Engineering Lab. There was dual-user mode. The general users could serach for necessary medicines from a central databse containing information from all the registered pharmacies' individual database; users could place an order from any specific phramacy and also were able to track their order. On the other hand, the Pharmacies could register themselves, maintain their own database, and sell their products. <span style="color:RoyalBlue">(JavaScript, NoSQL, React Native, MongoDB, Express, Node.js)</span> _[Fall 2019]_
 
@@ -64,5 +64,4 @@ author_profile: true
 
 ---
 
-<!-- [<img align="right" src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>Top](https://abuubaida.github.io/projects/#) -->
-<style><a href="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"><img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>Top{text-align: right}</a></style>
+[<img align="right" src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>Top](https://abuubaida.github.io/projects/#)
