@@ -64,4 +64,4 @@ author_profile: true
 
 ---
 
-[<style><img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>Top {text-align: right}</style>](https://abuubaida.github.io/projects/#)
+[<img align="right" src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>Top](https://abuubaida.github.io/projects/#)
