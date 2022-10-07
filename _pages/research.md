@@ -18,6 +18,7 @@ author_profile: true
 * Natural Language Processing
 * Computational Social Science
 * Information Retrieval
+* Computational Linguistics
 * Data Mining
 * Conversational AI
 * Machine Learning
