@@ -20,9 +20,10 @@ Previously, I worked as a Research Engineer at [Intelsense AI](https://intelsens
 
 ## 📢 Recent News
 
+* <span style="color:RoyalBlue">[Oct. 18, 2022]</span> Submitted a paper in the Journal of Quantitative Criminology ~[Impact Factor 4.330]~.
 * <span style="color:RoyalBlue">[Oct. 05, 2022]</span> Submitted a paper in EACL 2023.
 * <span style="color:RoyalBlue">[Aug. 28, 2022]</span> Submitted the revised version after the rebuttal period.
-* <span style="color:RoyalBlue">[Jul. 15, 2022]</span> Submitted one of my works in AACL-IJCNLP 2022.
+* <span style="color:RoyalBlue">[Jul. 15, 2022]</span> Submitted a paper in AACL-IJCNLP 2022.
 * <span style="color:RoyalBlue">[Jun. 15, 2022]</span> Selected as one of the finalists in the Robi-Datathon 2.0 competition.
 * <span style="color:RoyalBlue">[May  01, 2022]</span> Resigned from the full-time job of Intelsense AI.
 * <span style="color:RoyalBlue">[Feb. 22, 2022]</span> Officially completed my bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
