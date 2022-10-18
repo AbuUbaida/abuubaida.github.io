@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page!
+Welcome!!
 
 My name is Abu Ubaida Akash and I prefer to be called **Ubaida**. I am an independent researcher, actively collaborating with [Mir Tafseer Nayeem](https://scholar.google.com/citations?user=qoeylgEAAAAJ&hl=en "Research profile"), and previously worked under the supervision of Dr. [Muhammad Ibrahim](https://du.ac.bd/faculty/faculty_details/CSE/4167 "Academic profile") and Prof. Dr. [Mohammad Shafiul Alam](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5ZXfn_cAAAAJ&sortby=pubdate "Research profile"). My research interests include, but are not limited to, Natural Language Processing, Computational Social Science, Information Retrieval, and Data Mining. One of my recent works has been submitted in [EACL 2023](https://2023.eacl.org/).
 <!-- My recent works and ongoing projects can be found in the [Research](https://abuubaida.github.io/research/ "https://abuubaida.github.io/research/") section. -->
