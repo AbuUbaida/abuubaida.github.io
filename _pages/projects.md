@@ -14,7 +14,7 @@ author_profile: true
 * Users will provide a reference sentence and a list of target sentences as input; and optionally the similarity assessment approach _(Default: Cosine Similarity)_ and the maximum sequence length _(Default: 512)_. The length will be calculated in terms of the number of tokens using the [WordPiece tokenizer](https://huggingface.co/course/chapter6/6?fw=pt#tokenization-algorithm). Currently, the maximum sequence length limit is 512.
 * BenSim will perform [normalization](https://github.com/csebuetnlp/normalizer) on the input texts and extract the contextual embeddings of the reference sentence and target sentences through a [pre-trained BERT](https://huggingface.co/sagorsarker/bangla-bert-base) model. The similarities will be measured between each of the sentence pairs by applying either [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance) or [Cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity) (based on the input parameter).
 * Finally, this will return a list of similarity scores between the reference sentence and the target sentences. If the assessment method is `cosine`, the higher scores will denote higher similarity, and the opposite will be for `euclidean`.
-* Detail usage can be found [here](https://github.com/AbuUbaida/BenSim "GitHub").
+* Detail usage can be found [here](https://anonymous.4open.science/r/bensim "GitHub").
 
 ### mSentsTokenizer
 * A Python package for tokenizing multilingual documents at the sentence level.
