@@ -36,7 +36,7 @@ author_profile: true
 
 * **Theme:** Predicting Daily Crime Incidents of Bangladesh.\\
 **Collaborators:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam. <span style="color:RoyalBlue">_[*equal contribution]_</span>\\
-**Status:** `submitted`
+**Status:** `under-review`
 
 
 <!-- ## Publications
