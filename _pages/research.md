@@ -16,10 +16,10 @@ author_profile: true
 ---
 
 * Natural Language Processing
+* Computational Linguistics
 * Computational Social Science
-* Information Retrieval
-* Data Mining
 * Machine Learning
+* Information Retrieval
 
 ## Ongoing Projects
 
