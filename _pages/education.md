@@ -11,7 +11,7 @@ author_profile: true
 
 * **Duration:** 4.8 years _(May 2017 – January 2022)_
 * **Institution:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")), Dhaka, Bangladesh.
-* **CGPA:** 3.52 _[on a scale of 4.00]_.
+* **CGPA:** 3.52 _[on a scale of 4.00]_ (top 15%).
     * **<span style="color:RoyalBlue">Major CGPA:</span>** 3.72 _[last two years]_.
 * **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data. _[[paper](https://abuubaida.github.io/files/bsc_thesis_paper_2022.pdf "Paper PDF")]_
 * **Thesis Presentation:** Presentation [Slide](https://abuubaida.github.io/files/bsc_thesis_presentation_2022.pdf "Presentation PDF").
