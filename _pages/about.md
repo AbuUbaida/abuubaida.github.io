@@ -20,6 +20,7 @@ Previously, I worked as a Research Engineer at [Intelsense AI](https://intelsens
 
 ## 📢 Recent News
 
+* <span style="color:RoyalBlue">[Jan. 22, 2023]</span> One long paper has been accepted at EACL 2023 (main).
 * <span style="color:RoyalBlue">[Nov. 12, 2022]</span> Submitted a paper in Cybernetics and Systems journal.
 * <span style="color:RoyalBlue">[Oct. 05, 2022]</span> Submitted a paper in EACL 2023.
 * <span style="color:RoyalBlue">[Jun. 15, 2022]</span> Selected as one of the finalists in the Robi-Datathon 2.0 competition.
