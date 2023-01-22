@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Areas of Interest
+## Area of Interests
 
 ---
 
@@ -27,12 +27,12 @@ author_profile: true
 
 * **Title:** Shironaam: Bengali News Headline Generation using Auxiliary Information\\
 **Collaborators:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Tanvir Islam\\
-**Venue:** Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))
+**Venue:** Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
 **Status:** `accepted`
 
 * **Title:** Crime Prediction using Machine Learning with a Novel Crime Dataset \\
 **Collaborators:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam <span style="color:RoyalBlue">_[*equal contribution]_</span>\\
-**Venue:** Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))
+**Venue:** Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
 **Status:** `under-review`
 
 ## Ongoing Projects
