@@ -26,16 +26,18 @@ author_profile: true
 ---
 
 <!-- Systems for automatically creating headlines might help editors come up with catchy titles that would draw readers or visitors. However, due to the lack of adequate parallel data for low-resource languages like Bengali and the lack of ideal methods to develop a system for headline generation using pre-trained language models, particularly for lengthy news articles, the performance of headline generation systems remains challenging. In order to overcome these difficulties, we offer a sizable dataset in Bengali and use our innovative approach to enhance the headlines that are created. -->
-* **Theme:** Abstractive Headline Generation in Bengali.\\
-**Collaborators:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Tanvir Islam.\\
-**Status:** `under-review`
+* **Theme:** Shironaam: Bengali News Headline Generation using Auxiliary Information\\
+**Collaborators:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Tanvir Islam\\
+**Venue:** Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))
+**Status:** `accepted`
 
-* **Theme:** Language Agnostic Model for Abstractive Headline Generation.\\
-**Collaborators:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Samsul Islam.\\
+* **Theme:** Language Agnostic Model for Abstractive Headline Generation\\
+**Collaborators:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Samsul Islam\\
 **Status:** `ongoing`
 
-* **Theme:** Predicting Daily Crime Incidents of Bangladesh.\\
-**Collaborators:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam. <span style="color:RoyalBlue">_[*equal contribution]_</span>\\
+* **Theme:** Crime Prediction using Machine Learning with a Novel Crime Dataset \\
+**Collaborators:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam <span style="color:RoyalBlue">_[*equal contribution]_</span>\\
+**Venue:** Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))
 **Status:** `under-review`
 
 
