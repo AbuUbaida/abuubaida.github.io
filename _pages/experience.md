@@ -11,6 +11,13 @@ author_profile: true
 
 ---
 
+* **Research Engineer** _(Speech & NLP)_\\
+[AIMS Lab](https://aimsl.uiu.ac.bd/#/ "https://aimsl.uiu.ac.bd/"), [UIU](https://www.uiu.ac.bd/), Dhaka, Bangladesh\\
+    * **Duration: 1 month** _(February 2023 – Present)_
+    * AIMScribe: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation
+<br/>
+<br/>
+
 * **Machine Learning Research Engineer** _(Speech & NLP)_\\
 [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
     * **Duration: 8 months** _(September 2021 – April 2022)_
