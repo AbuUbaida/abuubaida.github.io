@@ -18,7 +18,7 @@ author_profile: true
 <br/>
 <br/>
 
-* **Machine Learning Research Engineer** _(Speech & NLP)_\\
+* **Machine Learning Research Engineer**\\
 [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
     * **Duration: 8 months** _(September 2021 – April 2022)_
     * Implemented a G2P model for Bengali and gained state-of-the-art accuracy (99%) on unseen data.
