@@ -26,8 +26,8 @@ author_profile: true
 
 ---
 
-* <img src="https://abuubaida.github.io/images/documents_1.png"/> <span style="color:RoyalBlue">**Title:**</span> [Shironaam: Bengali News Headline Generation using Auxiliary Information](https://www.researchgate.net/publication/368517708_Shironaam_Bengali_News_Headline_Generation_using_Auxiliary_Information)\\
-<img src="https://abuubaida.github.io/images/collaboration_1.png"/> <span style="color:RoyalBlue">**Collaborators:**</span> <ins>Abu Ubaida Akash</ins>\*, Mir Tafseer Nayeem\*, Faisal Tareque Shohan, Tanvir Islam\\
+* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">**Title:**</span> [Shironaam: Bengali News Headline Generation using Auxiliary Information](https://www.researchgate.net/publication/368517708_Shironaam_Bengali_News_Headline_Generation_using_Auxiliary_Information)\\
+<img src="https://img.icons8.com/ultraviolet/20/null/collaborator-male.png"/> <span style="color:RoyalBlue">**Collaborators:**</span> <ins>Abu Ubaida Akash</ins>\*, Mir Tafseer Nayeem\*, Faisal Tareque Shohan, Tanvir Islam\\
 <img src="https://abuubaida.github.io/images/conference_4.png"/> <span style="color:RoyalBlue">**Conference:**</span> Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">**Status:**</span> `accepted`\\
 <img src="https://abuubaida.github.io/images/pointer.png"/> [Dataset & Code](https://github.com/dialect-ai/BenHeadGen)
