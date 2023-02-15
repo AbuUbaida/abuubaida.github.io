@@ -21,17 +21,17 @@ author_profile: true
 * Machine Learning
 * Information Retrieval
 
-## Publications
+## Publications <span style="color:RoyalBlue">_[* denotes equal contribution]_</span>
 
 ---
 
 * **Title:** Shironaam: Bengali News Headline Generation using Auxiliary Information\\
-**Collaborators:** <ins>Abu Ubaida Akash</ins>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Tanvir Islam\\
+**Collaborators:** <ins>Abu Ubaida Akash</ins>\*, Mir Tafseer Nayeem\*, Faisal Tareque Shohan, Tanvir Islam\\
 **Venue:** Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
-**Status:** `accepted`
+**Status:** `accepted` <span style="color:RoyalBlue">\[**[Paper](https://abuubaida.github.io/files/Shironaam_EACL_2023.pdf)**\]</span>
 
 * **Title:** Crime Prediction using Machine Learning with a Novel Crime Dataset \\
-**Collaborators:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam <span style="color:RoyalBlue">_[*equal contribution]_</span>\\
+**Collaborators:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
 **Venue:** Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
 **Status:** `under-review`
 
