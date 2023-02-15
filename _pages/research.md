@@ -30,7 +30,8 @@ author_profile: true
 **Collaborators:** <ins>Abu Ubaida Akash</ins>\*, Mir Tafseer Nayeem\*, Faisal Tareque Shohan, Tanvir Islam\\
 **Venue:** Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
 **Status:** `accepted`
-<img src="https://abuubaida.github.io/files/mouse-pointer.png"/> [Paper](https://abuubaida.github.io/files/Shironaam_EACL_2023.pdf)
+
+<img src="https://abuubaida.github.io/images/mouse-pointer.png"/> [Paper](https://abuubaida.github.io/files/Shironaam_EACL_2023.pdf)
 
 * **Title:** Crime Prediction using Machine Learning with a Novel Crime Dataset \\
 **Collaborators:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
