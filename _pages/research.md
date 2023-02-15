@@ -29,7 +29,11 @@ author_profile: true
 * **Title:** Shironaam: Bengali News Headline Generation using Auxiliary Information\\
 **Collaborators:** <ins>Abu Ubaida Akash</ins>\*, Mir Tafseer Nayeem\*, Faisal Tareque Shohan, Tanvir Islam\\
 **Venue:** Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
-**Status:** `accepted` <span style="color:RoyalBlue">**[Paper](https://abuubaida.github.io/files/Shironaam_EACL_2023.pdf)**</span>
+**Status:** `accepted`
+
+<div> Icons made by <a href="https://www.flaticon.com/authors/fathema-khanom" title="Fathema Khanom"> Fathema Khanom </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
+
+**[Paper](https://abuubaida.github.io/files/Shironaam_EACL_2023.pdf)**
 
 * **Title:** Crime Prediction using Machine Learning with a Novel Crime Dataset \\
 **Collaborators:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
