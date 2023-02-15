@@ -51,7 +51,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<div style="text-align: right">*<span style="color:RoyalBlue">[* denotes equal contribution]</span>*</div>
+<div style="text-align: right, font-style: italic">*<span style="color:RoyalBlue">[* denotes equal contribution]</span>*</div>
 ---
 
 [<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://abuubaida.github.io/research/#)[Top](https://abuubaida.github.io/research/#)
