@@ -32,7 +32,7 @@ author_profile: true
 **Status:** `accepted`\\
 <img src="https://abuubaida.github.io/images/mouse-pointer.png"/> [Paper](https://abuubaida.github.io/files/Shironaam_EACL_2023.pdf)
 
-* **Title:** Crime Prediction using Machine Learning with a Novel Crime Dataset \\
+* <img src="https://abuubaida.github.io/images/documents_1.png"/> **Title:** Crime Prediction using Machine Learning with a Novel Crime Dataset \\
 **Collaborators:** Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
 **Venue:** Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
 **Status:** `under-review`
