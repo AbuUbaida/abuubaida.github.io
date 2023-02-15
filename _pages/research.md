@@ -33,10 +33,10 @@ author_profile: true
 <img src="https://abuubaida.github.io/images/pointer.png"/> [Paper](https://abuubaida.github.io/files/Shironaam_EACL_2023.pdf)
 
 
-* <img src="https://abuubaida.github.io/images/documents_1.png"/> <span style="color:RoyalBlue">**Title:**</span> Crime Prediction using Machine Learning with a Novel Crime Dataset \\
-<img src="https://abuubaida.github.io/images/collaboration_1.png"/> <span style="color:RoyalBlue">**Collaborators:**</span> Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
-<img src="https://abuubaida.github.io/images/conference_2.png"/> <span style="color:RoyalBlue">**Journal:**</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
-<img src="https://abuubaida.github.io/images/status_2.png"/> <span style="color:RoyalBlue">**Status:**</span> `under-review`
+* <img src="https://abuubaida.github.io/images/documents_1.png"/> <span style="color:RoyalBlue">Title:</span> Crime Prediction using Machine Learning with a Novel Crime Dataset \\
+<img src="https://abuubaida.github.io/images/collaboration_1.png"/> <span style="color:RoyalBlue">Collaborators:</span> Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
+<img src="https://abuubaida.github.io/images/conference_2.png"/> <span style="color:RoyalBlue">Journal:</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
+<img src="https://abuubaida.github.io/images/status_2.png"/> <span style="color:RoyalBlue">Status:</span> `under-review`
 
 ## Ongoing Projects
 
