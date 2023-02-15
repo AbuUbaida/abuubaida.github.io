@@ -26,16 +26,16 @@ author_profile: true
 
 ---
 
-* <img src="https://abuubaida.github.io/images/documents_1.png"/> <span style="color:RoyalBlue">**Title:**</span> Shironaam: Bengali News Headline Generation using Auxiliary Information\\
+* <img src="https://abuubaida.github.io/images/documents_1.png"/> <span style="color:RoyalBlue">**Title:**</span> [Shironaam: Bengali News Headline Generation using Auxiliary Information](https://www.researchgate.net/publication/368517708_Shironaam_Bengali_News_Headline_Generation_using_Auxiliary_Information)\\
 <img src="https://abuubaida.github.io/images/collaboration_1.png"/> <span style="color:RoyalBlue">**Collaborators:**</span> <ins>Abu Ubaida Akash</ins>\*, Mir Tafseer Nayeem\*, Faisal Tareque Shohan, Tanvir Islam\\
-<img src="https://abuubaida.github.io/images/conference_1.png"/> <span style="color:RoyalBlue">**Conference:**</span> Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
+<img src="https://abuubaida.github.io/images/conference_3.png"/> <span style="color:RoyalBlue">**Conference:**</span> Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
 <img src="https://abuubaida.github.io/images/status_1.png"/> <span style="color:RoyalBlue">**Status:**</span> `accepted`\\
-<img src="https://abuubaida.github.io/images/pointer.png"/> [Paper](https://abuubaida.github.io/files/Shironaam_EACL_2023.pdf)
+<img src="https://abuubaida.github.io/images/pointer.png"/> [Code & Dataset](https://github.com/dialect-ai/BenHeadGen)
 
 
-* <img src="https://abuubaida.github.io/images/documents_1.png"/> Crime Prediction using Machine Learning with a Novel Crime Dataset \\
+* <img src="https://abuubaida.github.io/images/documents_1.png"/> [Crime Prediction using Machine Learning with a Novel Crime Dataset](https://arxiv.org/abs/2211.01551) \\
 <img src="https://abuubaida.github.io/images/collaboration_1.png"/> Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
-<img src="https://abuubaida.github.io/images/conference_2.png"/> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
+<img src="https://abuubaida.github.io/images/conference_4.png"/> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
 <img src="https://abuubaida.github.io/images/status_2.png"/> `under-review`
 
 ## Ongoing Projects
