@@ -33,10 +33,10 @@ author_profile: true
 <img src="https://abuubaida.github.io/images/pointer.png"/> [Dataset & Code](https://github.com/dialect-ai/BenHeadGen)
 
 
-* <img src="https://abuubaida.github.io/images/documents_1.png"/> <span style="color:RoyalBlue">**Title:**</span> [Crime Prediction using Machine Learning with a Novel Crime Dataset](https://arxiv.org/abs/2211.01551) \\
+* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">**Title:**</span> [Crime Prediction using Machine Learning with a Novel Crime Dataset](https://arxiv.org/abs/2211.01551) \\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">**Collaborators:**</span> Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
 <img src="https://abuubaida.github.io/images/journal.png"/> <span style="color:RoyalBlue">**Journal:**</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
-<img src="https://abuubaida.github.io/images/status_2.png"/> <span style="color:RoyalBlue">**Status:**</span> `under-review`
+<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">**Status:**</span> `under-review`
 
 ## Ongoing Projects
 
