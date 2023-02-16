@@ -22,16 +22,16 @@ Previously, I worked as a Machine Learning Research Engineer at [Intelsense AI](
 
 ## 📢 Recent News
 
-* <span style="color:RoyalBlue">[Feb. 01, 2023]</span> Started working for AIMS Lab, UIU as a Research Engineer.
-* <span style="color:RoyalBlue">[Jan. 22, 2023]</span> One long paper has been accepted at EACL 2023 (main).
-* <span style="color:RoyalBlue">[Nov. 12, 2022]</span> Submitted a paper in Cybernetics and Systems journal.
-* <span style="color:RoyalBlue">[Oct. 05, 2022]</span> Submitted a paper in EACL 2023.
-* <span style="color:RoyalBlue">[Jun. 15, 2022]</span> Selected as one of the finalists in the Robi-Datathon 2.0 competition.
+* <span style="color:RoyalBlue">[Feb 01, 2023]</span> Started working for AIMS Lab, UIU as a Research Engineer.
+* <span style="color:RoyalBlue">[Jan 22, 2023]</span> One long paper has been accepted at EACL 2023 (main).
+* <span style="color:RoyalBlue">[Nov 12, 2022]</span> Submitted a paper in Cybernetics and Systems journal.
+* <span style="color:RoyalBlue">[Oct 05, 2022]</span> Submitted a paper in EACL 2023.
+* <span style="color:RoyalBlue">[Jun 15, 2022]</span> Selected as one of the finalists in the Robi-Datathon 2.0 competition.
 * <span style="color:RoyalBlue">[May  01, 2022]</span> Quit from the full-time job of Intelsense AI.
-* <span style="color:RoyalBlue">[Jan. 13, 2022]</span> Officially completed my bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
-* <span style="color:RoyalBlue">[Jan. 03, 2022]</span> Successfuly defended my undergraduate thesis!
-* <span style="color:RoyalBlue">[Sep. 01, 2022]</span> Got promoted as Machine Learning Research Engineer at Intelsense AI under the Speech and Engineering Division.
-* <span style="color:RoyalBlue">[Jun. 01, 2021]</span> Started 3 months long internship at Intelsense AI as a Machine Learning Research Intern.
+* <span style="color:RoyalBlue">[Jan 13, 2022]</span> Officially completed my bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
+* <span style="color:RoyalBlue">[Jan 03, 2022]</span> Successfuly defended my undergraduate thesis!
+* <span style="color:RoyalBlue">[Sep 01, 2022]</span> Got promoted as Machine Learning Research Engineer at Intelsense AI under the Speech and Engineering Division.
+* <span style="color:RoyalBlue">[Jun 01, 2021]</span> Started 3 months long internship at Intelsense AI as a Machine Learning Research Intern.
 
 ---
 
