@@ -17,9 +17,9 @@ author_profile: true
 
 * Natural Language Processing
 * Computational Linguistics
-* Computational Social Science
-* Machine Learning
 * Information Retrieval
+* Speech Recognition
+* Machine Learning
 
 ## Publications
 
