@@ -13,7 +13,7 @@ author_profile: true
 
 * **Research Engineer** _(Speech & NLP)_\\
 [AIMS Lab](https://aimsl.uiu.ac.bd/#/ "https://aimsl.uiu.ac.bd/"), [UIU](https://www.uiu.ac.bd/), Dhaka, Bangladesh\\
-    * **Period:** February 2023 – Present
+    * **Period:** _February 2023 – Present_
     * Supervisor: [Dr. Khondaker Abdullah Al Mamun](https://www.kmamun.com/)
     * Project: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation (AIMScribe)
     * Designing protocol for collecting audio data and automatically transcribing them.
@@ -25,7 +25,7 @@ author_profile: true
 
 * **Machine Learning Research Engineer**\\
 [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
-    * **Period:** September 2021 – April 2022
+    * **Period:** _September 2021 – April 2022_
     * Implemented a G2P model for Bengali and gained state-of-the-art accuracy (99%) on unseen data.
     * Prepared large-scale (nearly 600 hours) audio data for better Bengali ASR training.
     * Speech synthesis: Implemented Coqui TTS models for low-resourced language like Bengali.
@@ -36,7 +36,7 @@ author_profile: true
 
 * **Machine Learning Research Intern**\\
 [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
-    * **Period:** June 2021 – August 2021
+    * **Period:** _June 2021 – August 2021_
     * Developed the pipeline for Bengali text normalization and punctuation restoration.
     * Reviewed the literature of the related technologies.
 
@@ -47,16 +47,16 @@ author_profile: true
 ---
 
 * **General Member** at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
-    * **Period:** May 2017 – December 2021
+    * **Period:** _May 2017 – December 2021_
     * AUSTIDC ID 1702271
     * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
 * **Communication Responsible** at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website")
-    * **Period:** January 2018 – January 2018
+    * **Period:** _January 2018 – January 2018_
     * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
 * **Content Developer** at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
-    * **Period:** June 2018 – August 2018
+    * **Period:** _June 2018 – August 2018_
     * Affiliated with Durbin Labs Limited
 
 

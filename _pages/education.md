@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-* **Period:** May 2017 – January 2022
+* **Period:** _May 2017 – January 2022_
 * **Institution:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")), Dhaka, Bangladesh
 * **CGPA:** 3.52 _[on a scale of 4.0]_ _(top 15%)_
     * **<span style="color:RoyalBlue">Major CGPA:</span>** 3.72 _[last two years]_
@@ -41,7 +41,7 @@ author_profile: true
 
 ---
 
-* **Period:** July 2014 – July 2016
+* **Period:** _July 2014 – July 2016_
 * **Institution:** Adamjee Cantonment College ([ACC](http://mail.acc.edu.bd/, "http://mail.acc.edu.bd/")), Dhaka, Bangladesh.
 * **GPA:** 5.0 _[on a scale of 5.0]_.
 
@@ -51,7 +51,7 @@ author_profile: true
 
 ---
 
-* **Period:** January 2012 – January 2014
+* **Period:** _January 2012 – January 2014_
 * **Institution:** Uttara High School and College ([UHSC](http://uhscdhaka.edu.bd/ "http://uhscdhaka.edu.bd/")), Dhaka, Bangladesh.
 * **GPA:** 5.0 _[on a scale of 5.0]_.
 
