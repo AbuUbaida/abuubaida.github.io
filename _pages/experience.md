@@ -18,7 +18,7 @@ author_profile: true
     * Project: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation (AIMScribe)
     * Designing protocol for collecting audio data and automatically transcribing them.
     * Designing experiments for speaker diarization, NER, and summarization in the Bengali language.
-    * Applying different NLP, speech processing, and machine learning algorithms to produce deliverable output.
+    * Applying different NLP, speech processing, and machine learning techniques to produce deliverable output.
     * Writing high-quality research articles on the AIMScribe project.
 <br/>
 <br/>
