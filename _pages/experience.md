@@ -46,6 +46,10 @@ author_profile: true
 
 ---
 
+* **Student Volunteer** at [EACL](https://2023.eacl.org/calls/volunteers/) (Dubrovnik, Croatia)
+    * **Period:** _May 2023 – May 2023_
+    * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions
+
 * **General Member** at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
     * **Period:** _May 2017 – December 2021_
     * AUSTIDC ID 1702271
@@ -61,13 +65,21 @@ author_profile: true
 
 
 
+## Honours & Awards
+
+---
+
+* **<span style="color:RoyalBlue">Diversity & Inclusion Award</span>** (Registration fee waiver, travel grant, hotel accommodation) from [EACL](https://2023.eacl.org/calls/d-i-subsidies/) (Dubrovnik, Croatia); sponsored by [Amazon Science](https://www.amazon.science/). _(2023)_
+* Robi-Datathon 2.0 **<span style="color:RoyalBlue">Finalist</span>** (Top 6% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_
+* Game Showcasing Competition **<span style="color:RoyalBlue">1st Runner-Up</span>**; organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2018)_
+
+
+
 ## Contests & Participations
 
 ---
 
-* Robi-Datathon 2.0 **<span style="color:RoyalBlue">Finalist</span>** (Top 6% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_
 * Intra AUST Programming Contest organized by [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse") _(Spring 2019)_
-* Game Showcasing Competition **<span style="color:RoyalBlue">1st Runner-Up</span>**; organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2018)_
 * Intra AUST Project Showcasing organized by [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse") _(Spring 2018)_
 * Innoventure Engineering Olympiad organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2017)_
 * Web Compatibility Sprint organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2017)_
