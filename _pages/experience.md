@@ -42,7 +42,7 @@ author_profile: true
 
 
 
-## Voluntary Services
+## Voluntary Service
 
 ---
 
@@ -69,7 +69,7 @@ author_profile: true
 
 ---
 
-* **<span style="color:RoyalBlue">Diversity & Inclusion Award</span>** (Registration fee waiver, travel grant, hotel accommodation) from [EACL](https://2023.eacl.org/calls/d-i-subsidies/) (Dubrovnik, Croatia); sponsored by [Amazon Science](https://www.amazon.science/). _(2023)_
+* **<span style="color:RoyalBlue">Diversity & Inclusion Award</span>** (Registration fee waiver, travel grant, hotel accommodation) from [EACL](https://2023.eacl.org/calls/d-i-subsidies/) (Dubrovnik, Croatia); sponsored by [Amazon Science](https://www.amazon.science/) _(2023)_
 * Robi-Datathon 2.0 **<span style="color:RoyalBlue">Finalist</span>** (Top 6% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_
 * Game Showcasing Competition **<span style="color:RoyalBlue">1st Runner-Up</span>**; organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2018)_
 
