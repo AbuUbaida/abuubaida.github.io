@@ -22,6 +22,7 @@ Previously, I worked as a Machine Learning Research Engineer at [Intelsense AI](
 
 ## 📢 Recent News
 
+* <span style="color:RoyalBlue">[May 02, 2023]</span> Attended EACL 2023 (Dubrovnik, Croatia) virtually.
 * <span style="color:RoyalBlue">[Feb 01, 2023]</span> Started working for AIMS Lab, UIU as a Research Engineer.
 * <span style="color:RoyalBlue">[Jan 22, 2023]</span> One long paper has been accepted at EACL 2023 (main).
 * <span style="color:RoyalBlue">[Nov 12, 2022]</span> Submitted a paper in Cybernetics and Systems journal.
