@@ -26,14 +26,14 @@ author_profile: true
 ---
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Shironaam: Bengali News Headline Generation using Auxiliary Information](https://aclanthology.org/2023.eacl-main.4/)\\
-<img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> <ins>Abu Ubaida Akash</ins>\*, Mir Tafseer Nayeem\*, Faisal Tareque Shohan, Tanvir Islam\\
+<img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> <b>Abu Ubaida Akash</b>\*, Mir Tafseer Nayeem\*, Faisal Tareque Shohan, Tanvir Islam\\
 <img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted`\\
 <img src="https://abuubaida.github.io/images/pointer.png"/> [Dataset & Code](https://github.com/dialect-ai/BenHeadGen)
 
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Crime Prediction using Machine Learning with a Novel Crime Dataset](https://arxiv.org/abs/2211.01551) \\
-<img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Faisal Tareque Shohan\*, <ins>Abu Ubaida Akash</ins>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
+<img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Faisal Tareque Shohan\*, <b>Abu Ubaida Akash</b>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
 <img src="https://img.icons8.com/external-fauzidea-blue-fauzidea/20/null/external-journal-back-to-school-fauzidea-blue-fauzidea.png"/> <span style="color:RoyalBlue">Journal:</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review`
 
