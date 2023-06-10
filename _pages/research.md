@@ -43,17 +43,17 @@ author_profile: true
 
 <!-- Systems for automatically creating headlines might help editors come up with catchy titles that would draw readers or visitors. However, due to the lack of adequate parallel data for low-resource languages like Bengali and the lack of ideal methods to develop a system for headline generation using pre-trained language models, particularly for lengthy news articles, the performance of headline generation systems remains challenging. In order to overcome these difficulties, we offer a sizable dataset in Bengali and use our innovative approach to enhance the headlines that are created. -->
 
-* **Theme:** Automated and Intelligent Medical Scribe for Doctor-Patient Conversation\\
-**Collaborators:** <b>Abu Ubaida Akash</b>, Mohammad Masudur Rahman, Khondaker A. Mamun\\
-**Status:** `ongoing`
+* <span style="color:RoyalBlue">Theme:</span> Automated and Intelligent Medical Scribe for Doctor-Patient Conversation\\
+<span style="color:RoyalBlue">Collaborators:</span> <b>Abu Ubaida Akash</b>, Mohammad Masudur Rahman, Khondaker A. Mamun\\
+<span style="color:RoyalBlue">Status:</span> `ongoing`
 
-* **Theme:** Language Agnostic Model for Abstractive Headline Generation\\
-**Collaborators:** <b>Abu Ubaida Akash</b>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Samsul Islam\\
-**Status:** `ongoing`
+* <span style="color:RoyalBlue">Theme:</span> Language Agnostic Model for Abstractive Headline Generation\\
+<span style="color:RoyalBlue">Collaborators:</span> <b>Abu Ubaida Akash</b>, Mir Tafseer Nayeem, Faisal Tareque Shohan, Samsul Islam\\
+<span style="color:RoyalBlue">Status:</span> `ongoing`
 
 * **Theme:** Multilingual and Multimodal Headline Generation\\
-**Collaborators:** Faisal Tareque Shohan, <b>Abu Ubaida Akash</b>, Mir Tafseer Nayeem, Emdadul Haque, Samsul Islam\\
-**Status:** `ongoing`
+<span style="color:RoyalBlue">Collaborators:</span> Faisal Tareque Shohan, <b>Abu Ubaida Akash</b>, Mir Tafseer Nayeem, Emdadul Haque, Samsul Islam\\
+<span style="color:RoyalBlue">Status:</span> `ongoing`
 
 <!-- {% for post in site.research reversed %}
   {% include archive-single.html %}
