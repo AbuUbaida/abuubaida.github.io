@@ -9,12 +9,12 @@ redirect_from:
 
 Welcome!!
 
-I go by the name Abu Ubaida Akash but prefer to be called **Ubaida**. Currently, I am pursuing my masters appointed as a **Research Engineer** at [AIMS Lab](https://aimsl.uiu.ac.bd/#/), United International University ([UIU](https://www.uiu.ac.bd/)) in a highly ambitious project in Bangladesh, _“AIMScribe: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation”_.
+I go by the name Abu Ubaida Akash but prefer to be called **Ubaida**. Currently, I am pursuing research-type master's in Computer Science at Université de Sherbrooke under the supervision of Dr. [Amine Trabelsi](https://amine-trabelsi.netlify.app/). My research interests include, but are not limited to, natural language processing, computational linguistics, information retrieval, and machine learning. Apart from this, I am actively collaborating with [Mir Tafseer Nayeem](https://scholar.google.com/citations?user=qoeylgEAAAAJ&hl=en "Research profile") from the University of Alberta, Canada. <span style="color:Red">One of my long papers has been accepted to appear at [EACL 2023](https://2023.eacl.org/) (main).
 
-Apart from this, I am actively collaborating independently with [Mir Tafseer Nayeem](https://scholar.google.com/citations?user=qoeylgEAAAAJ&hl=en "Research profile") and previously worked under the supervision of Dr. [Muhammad Ibrahim](https://du.ac.bd/faculty/faculty_details/CSE/4167 "Academic profile") and Prof. Dr. [Mohammad Shafiul Alam](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5ZXfn_cAAAAJ&sortby=pubdate "Research profile"). My research interests include, but are not limited to, natural language processing, computational linguistics, information retrieval, speech recognition, and machine learning. <span style="color:Red">One of my long papers has been accepted to appear at [EACL 2023](https://2023.eacl.org/) (main).</span>
+Previously, I was appointed </span> as a Research Engineer at [AIMS Lab](https://aimsl.uiu.ac.bd/#/), United International University ([UIU](https://www.uiu.ac.bd/)), Bangladesh, in the project titled _“AIMScribe: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation”_.
 <!-- My recent works and ongoing projects can be found in the [Research](https://abuubaida.github.io/research/ "https://abuubaida.github.io/research/") section. -->
 
-Previously, I worked as a Machine Learning Research Engineer at [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/") under the Speech and Engineering Division. I received my bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/ "https://www.aust.edu/")), Dhaka, Bangladesh.
+Before that, I worked as a Machine Learning Research Engineer at [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/") under the Speech and Engineering Division. I received my bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/ "https://www.aust.edu/")), Dhaka, Bangladesh.
 
 <img src="https://img.icons8.com/color/24/000000/circled-envelope.png"/> **Email:** <span style="color:Blue">akash [dot] ubaida [at] gmail [dot] com</span> 
 {: .notice}
@@ -22,6 +22,8 @@ Previously, I worked as a Machine Learning Research Engineer at [Intelsense AI](
 
 ## 📢 Recent News
 
+* <span style="color:RoyalBlue">[Aug 18, 2023]</span> Moved to Canada.
+* <span style="color:RoyalBlue">[Jun 30, 2023]</span> Quit from the Research Engineer role of UIU.
 * <span style="color:RoyalBlue">[May 02, 2023]</span> Attended EACL 2023 (Dubrovnik, Croatia) virtually.
 * <span style="color:RoyalBlue">[Feb 01, 2023]</span> Started working for AIMS Lab, UIU as a Research Engineer.
 * <span style="color:RoyalBlue">[Jan 22, 2023]</span> One long paper has been accepted at EACL 2023 (main).
