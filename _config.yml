@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abu Ubaida Akash"
 title_separator          : "-"
 name                     : &name "Abu Ubaida Akash"
-description              : &description "Computer Science Student"
+description              : &description "MSc Student in Computer Science"
 url                      : https://abuubaida.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AbuUbaida/abuubaida.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Abu Ubaida Akash"
   avatar           : "dp_2.jpg"
-  bio              : "Research Engineer (Speech & NLP)"
-  location         : "Dhaka, Bangladesh"
+  bio              : "MSc Student at Université de Sherbrooke"
+  location         : "Sherbrooke, Quebec, Canada"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=NNzlEFQAAAAJ&hl=en&authuser=2"
