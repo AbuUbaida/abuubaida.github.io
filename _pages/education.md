@@ -9,9 +9,9 @@ author_profile: true
 
 ---
 
-* **Period:** August 2023 – Present_
-* **Institution:** Université de Sherbrooke ([UdeS](https://www.usherbrooke.ca/), Sherbrooke, Quebec, Canada
-* **Research Supervisor:** Dr. [Amine Trabelsi](https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/amine-trabelsi, "Academic Profile"), Assistant Professor, Computer Science Department.
+* **Period:** _August 2023 – Present_
+* **Institution:** Université de Sherbrooke ([UdeS](https://www.usherbrooke.ca/)), Sherbrooke, Quebec, Canada
+* **Research Supervisor:** Dr. [Amine Trabelsi](https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/amine-trabelsi, "Academic Profile"), Assistant Professor, Computer Science Department
 * **Selected Courseworks:** Courses listed below are in ascending order by semester:
     * Learning Techniques _(IFT712)_
     * Data Science _(IFT799)_
