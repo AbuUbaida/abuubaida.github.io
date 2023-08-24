@@ -12,7 +12,7 @@ author_profile: true
 * **Period:** _August 2023 – Present_
 * **Institution:** Université de Sherbrooke ([UdeS](https://www.usherbrooke.ca/)), Sherbrooke, Quebec, Canada
 * **Research Supervisor:** Dr. [Amine Trabelsi](https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/amine-trabelsi, "Academic Profile"), Assistant Professor, Computer Science Department
-* **Selected Courseworks:** Courses listed below are in ascending order by semester:
+* **Selected Courseworks:** Courses listed below are in ascending order by semester,
     * Learning Techniques _(IFT712)_
     * Data Science _(IFT799)_
     * Research Activities in Computer Science I _(IFT809)_
@@ -28,10 +28,10 @@ author_profile: true
 * **CGPA:** 3.52 _[on a scale of 4.0]_ _(top 15%)_
     * **<span style="color:RoyalBlue">Major CGPA:</span>** 3.72 _[last two years]_
 * **Cumulative Credit Completed:** 161.25 credits
-* **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data. _[[paper](https://abuubaida.github.io/files/bsc_thesis_paper_2022.pdf "Paper PDF")]_
-* **Thesis Presentation:** Presentation [Slide](https://abuubaida.github.io/files/bsc_thesis_presentation_2022.pdf "Presentation PDF").
-* **Thesis Supervisor:** Prof. Dr. [Mohammad Shafiul Alam](https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam, "Academic Profile"), Professor & Head, CSE Department.
-* **Selected Courseworks:** Courses listed below are in ascending order by semester, except Mathematics and Software Development.
+* **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data _[[paper](https://abuubaida.github.io/files/bsc_thesis_paper_2022.pdf "Paper PDF")]_
+* **Thesis Presentation:** Presentation [Slide](https://abuubaida.github.io/files/bsc_thesis_presentation_2022.pdf "Presentation PDF")
+* **Thesis Supervisor:** Prof. Dr. [Mohammad Shafiul Alam](https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam, "Academic Profile"), Professor & Head, CSE Department
+* **Selected Courseworks:** Courses listed below are in ascending order by semester, except Mathematics and Software Development,
     * Mathematics(I-IV) _(CSE 1115,1219,2101,2203)_
     * Software Development(I-V) _(CSE 1200,2100,2200,3100,3200)_
     * Discrete Mathematics _(CSE1203)_
@@ -56,8 +56,8 @@ author_profile: true
 ---
 
 * **Period:** _July 2014 – July 2016_
-* **Institution:** Adamjee Cantonment College ([ACC](http://mail.acc.edu.bd/, "http://mail.acc.edu.bd/")), Dhaka, Bangladesh.
-* **GPA:** 5.0 _[on a scale of 5.0]_.
+* **Institution:** Adamjee Cantonment College ([ACC](http://mail.acc.edu.bd/, "http://mail.acc.edu.bd/")), Dhaka, Bangladesh
+* **GPA:** 5.0 _[on a scale of 5.0]_
 
 
 
@@ -66,8 +66,8 @@ author_profile: true
 ---
 
 * **Period:** _January 2012 – January 2014_
-* **Institution:** Uttara High School and College ([UHSC](http://uhscdhaka.edu.bd/ "http://uhscdhaka.edu.bd/")), Dhaka, Bangladesh.
-* **GPA:** 5.0 _[on a scale of 5.0]_.
+* **Institution:** Uttara High School and College ([UHSC](http://uhscdhaka.edu.bd/ "http://uhscdhaka.edu.bd/")), Dhaka, Bangladesh
+* **GPA:** 5.0 _[on a scale of 5.0]_
 
 ---
 
