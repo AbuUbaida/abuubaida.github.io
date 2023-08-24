@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!!
 
-I go by the name Abu Ubaida Akash but prefer to be called **Ubaida**. Currently, I am appointed as a **Research Engineer** at [AIMS Lab](https://aimsl.uiu.ac.bd/#/), United International University ([UIU](https://www.uiu.ac.bd/)) in a highly ambitious project in Bangladesh, _“AIMScribe: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation”_.
+I go by the name Abu Ubaida Akash but prefer to be called **Ubaida**. Currently, I am pursuing my masters appointed as a **Research Engineer** at [AIMS Lab](https://aimsl.uiu.ac.bd/#/), United International University ([UIU](https://www.uiu.ac.bd/)) in a highly ambitious project in Bangladesh, _“AIMScribe: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation”_.
 
 Apart from this, I am actively collaborating independently with [Mir Tafseer Nayeem](https://scholar.google.com/citations?user=qoeylgEAAAAJ&hl=en "Research profile") and previously worked under the supervision of Dr. [Muhammad Ibrahim](https://du.ac.bd/faculty/faculty_details/CSE/4167 "Academic profile") and Prof. Dr. [Mohammad Shafiul Alam](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5ZXfn_cAAAAJ&sortby=pubdate "Research profile"). My research interests include, but are not limited to, natural language processing, computational linguistics, information retrieval, speech recognition, and machine learning. <span style="color:Red">One of my long papers has been accepted to appear at [EACL 2023](https://2023.eacl.org/) (main).</span>
 <!-- My recent works and ongoing projects can be found in the [Research](https://abuubaida.github.io/research/ "https://abuubaida.github.io/research/") section. -->
