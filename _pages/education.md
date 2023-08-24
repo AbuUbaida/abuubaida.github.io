@@ -9,6 +9,20 @@ author_profile: true
 
 ---
 
+* **Period:** August 2023 – Present_
+* **Institution:** Université de Sherbrooke ([UdeS](https://www.usherbrooke.ca/), Sherbrooke, Quebec, Canada
+* **Research Supervisor:** Dr. [Amine Trabelsi](https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/amine-trabelsi, "Academic Profile"), Assistant Professor, Computer Science Department.
+* **Selected Courseworks:** Courses listed below are in ascending order by semester:
+    * Learning Techniques _(IFT712)_
+    * Data Science _(IFT799)_
+    * Research Activities in Computer Science I _(IFT809)_
+
+
+
+## <img src="https://img.icons8.com/office/24/000000/graduation-cap.png"/> Bachelor of Science (B.Sc.) in Computer Science and Engineering
+
+---
+
 * **Period:** _May 2017 – January 2022_
 * **Institution:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")), Dhaka, Bangladesh
 * **CGPA:** 3.52 _[on a scale of 4.0]_ _(top 15%)_
