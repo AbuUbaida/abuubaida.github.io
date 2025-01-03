@@ -9,7 +9,7 @@ redirect_from:
 
 Thanks for stopping by!!
 
-I’m Ubaida, though I prefer to be called Abu Ubaida. I am currently pursuing a research-based master’s in Computer Science at Université de Sherbrooke, under the supervision of Dr. [Amine Trabelsi](https://amine-trabelsi.netlify.app/). My research interests include, but are not limited to, natural language processing, computational linguistics, information retrieval, and machine learning. In addition, I’ve had the privilege of collaborating with Dr. [Shafiq Joty](https://raihanjoty.github.io/) from Salesforce AI Research, United States. <span style="color:Red">Some of my recent work has been accepted for publication at both ACL and EACL.
+I’m Ubaida, though I prefer to be called **Abu Ubaida**. I am currently pursuing a research-based master’s in Computer Science at Université de Sherbrooke, under the supervision of Dr. [Amine Trabelsi](https://amine-trabelsi.netlify.app/). My research interests include, but are not limited to, natural language processing, computational linguistics, information retrieval, and machine learning. In addition, I’ve had the privilege of collaborating with Dr. [Shafiq Joty](https://raihanjoty.github.io/) from Salesforce AI Research, United States. <span style="color:Red">Some of my recent work has been accepted for publication at both ACL and EACL.
 
 Previously, I served as a Research Engineer at AIMS Lab, United International University ([UIU](https://www.uiu.ac.bd/)), Bangladesh, where I worked on the project “AIMScribe: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation”.
 
