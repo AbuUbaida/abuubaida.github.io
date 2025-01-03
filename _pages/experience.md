@@ -46,6 +46,12 @@ author_profile: true
 
 ---
 
+* **Manager**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/))
+    * **Period:** _Nov 2024 – Nov 2025_
+
+* **Member**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/))
+    * **Period:** _Nov 2023 – Oct 2024_
+
 * **Student Volunteer** at [EACL](https://2023.eacl.org/calls/volunteers/) (Dubrovnik, Croatia)
     * **Period:** _May 2023 – May 2023_
     * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions
@@ -69,6 +75,7 @@ author_profile: true
 
 ---
 
+* **<span style="color:RoyalBlue">Marc-Andr´e Roy Scholarship</span>** from the Université de Sherbrooke _(March 2024)_
 * **<span style="color:RoyalBlue">Diversity & Inclusion Award</span>** (Registration fee waiver, travel grant, hotel accommodation) from [EACL](https://2023.eacl.org/calls/d-i-subsidies/) (Dubrovnik, Croatia); sponsored by [Amazon Science](https://www.amazon.science/) _(2023)_
 * Robi-Datathon 2.0 **<span style="color:RoyalBlue">Finalist</span>** (Top 6% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_
 * Game Showcasing Competition **<span style="color:RoyalBlue">1st Runner-Up</span>**; organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2018)_
