@@ -31,7 +31,7 @@ author_profile: true
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review`
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](https://aclanthology.org/2024.findings-acl.771/)\\
-<img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators: Faisal Shohan\*, Mir Tafseer Nayeem\*, Samsul Islam,</span> <b>Abu Ubaida Akash</b>, Shafiq Joty\\
+<img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Faisal Shohan\*, Mir Tafseer Nayeem\*, Samsul Islam, <b>Abu Ubaida Akash</b>, Shafiq Joty\\
 <img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> Findings of Association for Computational Linguistics ([ACL 2024](https://2024.aclweb.org/))\\
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted`\\
 <img src="https://abuubaida.github.io/images/pointer.png"/> [<span style ="color:DarkBlue">[Code & Dataset]</span>](https://github.com/faisaltareque/XL-HeadTags)   
@@ -55,9 +55,9 @@ author_profile: true
 <!-- <img src="https://img.icons8.com/external-fauzidea-blue-fauzidea/20/null/external-journal-back-to-school-fauzidea-blue-fauzidea.png"/> <span style="color:RoyalBlue">Journal:</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\ -->
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review`
 
-## Ongoing Projects
+<!-- ## Ongoing Projects
 
----
+--- -->
 
 <!-- Systems for automatically creating headlines might help editors come up with catchy titles that would draw readers or visitors. However, due to the lack of adequate parallel data for low-resource languages like Bengali and the lack of ideal methods to develop a system for headline generation using pre-trained language models, particularly for lengthy news articles, the performance of headline generation systems remains challenging. In order to overcome these difficulties, we offer a sizable dataset in Bengali and use our innovative approach to enhance the headlines that are created. -->
 

@@ -13,7 +13,7 @@ author_profile: true
 
 * **Research Engineer** _(Speech & NLP)_\\
 [AIMS Lab](https://aimsl.uiu.ac.bd/#/ "https://aimsl.uiu.ac.bd/"), [UIU](https://www.uiu.ac.bd/), Dhaka, Bangladesh\\
-    * **Period:** _February 2023 – Present_
+    * **Period:** _February 2023 – May 2023
     * Supervisor: [Dr. Khondaker Abdullah Al Mamun](https://www.kmamun.com/)
     * Project: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation (AIMScribe)
     * Designing protocol for collecting audio data and automatically transcribing them.
@@ -46,28 +46,31 @@ author_profile: true
 
 ---
 
+* **Reviewer** at [COLING 2025](https://coling2025.org/) (Abu Dhabi, UAE)
+    * **Period:** _Oct 2024 – Nov 2024_
+
 * **Manager**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/))
     * **Period:** _Nov 2024 – Nov 2025_
 
-* **Member**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/))
-    * **Period:** _Nov 2023 – Oct 2024_
+<!-- * **Member**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/))
+    * **Period:** _Nov 2023 – Oct 2024_ -->
 
 * **Student Volunteer** at [EACL](https://2023.eacl.org/calls/volunteers/) (Dubrovnik, Croatia)
     * **Period:** _May 2023 – May 2023_
     * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions
 
-* **General Member** at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
+<!-- * **General Member** at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
     * **Period:** _May 2017 – December 2021_
     * AUSTIDC ID 1702271
-    * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
+    * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")) -->
 
 * **Communication Responsible** at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website")
     * **Period:** _January 2018 – January 2018_
     * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
-* **Content Developer** at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
+<!-- * **Content Developer** at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
     * **Period:** _June 2018 – August 2018_
-    * Affiliated with Durbin Labs Limited
+    * Affiliated with Durbin Labs Limited -->
 
 
 
