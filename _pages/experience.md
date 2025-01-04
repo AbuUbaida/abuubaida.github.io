@@ -13,7 +13,7 @@ author_profile: true
 
 * **Research Engineer** _(Speech & NLP)_\\
 [AIMS Lab](https://aimsl.uiu.ac.bd/#/ "https://aimsl.uiu.ac.bd/"), [UIU](https://www.uiu.ac.bd/), Dhaka, Bangladesh\\
-    * **Period:** _February 2023 – May 2023
+    * **Period:** _February 2023 – May 2023_
     * Supervisor: [Dr. Khondaker Abdullah Al Mamun](https://www.kmamun.com/)
     * Project: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation (AIMScribe)
     * Designing protocol for collecting audio data and automatically transcribing them.
