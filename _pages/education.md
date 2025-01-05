@@ -14,6 +14,7 @@ author_profile: true
 * **Research Supervisor:** Dr. [Amine Trabelsi](https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/amine-trabelsi, "Academic Profile"), Assistant Professor, Department of Computer Science
 * **Research Area:** Natural Language Processing
 * **CGPA**: 4.1 _[on a scale of 4.3]_
+* **Cumulative Credit Completed:** 45
 
 
 
@@ -23,9 +24,9 @@ author_profile: true
 
 * **Period:** _May 2017 – January 2022_
 * **Institution:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")), Dhaka, Bangladesh
-<!-- * **CGPA:** 3.52 _[on a scale of 4.0]_ _(top 15%)_
+* **CGPA:** 3.52 _[on a scale of 4.0]_
     * **<span style="color:RoyalBlue">Major CGPA:</span>** 3.72 _[last two years]_
-* **Cumulative Credit Completed:** 161.25 credits -->
+* **Cumulative Credit Completed:** 161.25
 * **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data _[[paper](https://abuubaida.github.io/files/bsc_thesis_paper_2022.pdf "Paper PDF")]_
 * **Thesis Presentation:** Presentation [Slide](https://abuubaida.github.io/files/bsc_thesis_presentation_2022.pdf "Presentation PDF")
 * **Thesis Supervisor:** Prof. Dr. [Mohammad Shafiul Alam](https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam, "Academic Profile"), Professor & Head, CSE Department
