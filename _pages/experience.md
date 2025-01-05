@@ -49,7 +49,7 @@ author_profile: true
 * **Reviewer** at [COLING 2025](https://coling2025.org/) (Abu Dhabi, UAE)
     * **Period:** _Oct 2024 – Nov 2024_
 
-* **Manager**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/))
+* **Manager**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/)), Canada
     * **Period:** _Nov 2024 – Nov 2025_
 
 <!-- * **Member**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/))
@@ -64,7 +64,7 @@ author_profile: true
     * AUSTIDC ID 1702271
     * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")) -->
 
-* **Communication Responsible** at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website")
+* **Communication Responsible** at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website"), Bangladesh
     * **Period:** _January 2018 – January 2018_
     * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
