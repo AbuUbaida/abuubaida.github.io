@@ -9,13 +9,13 @@ redirect_from:
 
 Thanks for stopping by!!
 
-I’m Ubaida, though I prefer to be called **Abu Ubaida**. I am currently pursuing a research-based master’s in Computer Science at Université de Sherbrooke, under the supervision of Dr. [Amine Trabelsi](https://amine-trabelsi.netlify.app/). My research interests include, but are not limited to, natural language processing, computational linguistics, information retrieval, and machine learning. In addition, I’ve had the privilege of collaborating with Dr. [Shafiq Joty](https://raihanjoty.github.io/) from Salesforce AI Research, United States. <span style="color:Red">Some of my recent work has been accepted for publication at prestigious conferences such as ACL and EACL.
+I go by the name 𝐔𝐛𝐚𝐢𝐝𝐚. I recently graduated with an 𝐌𝐒𝐜 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 (Université de Sherbrooke). My master’s thesis introduced Open-Target Stance Detection (OTSD) — a realistic stance detection setting where targets are not provided at inference — and evaluated LLMs (GPT, Gemini, Llama, Mistral) for target generation and stance classification. That work was published at 𝐀𝐂𝐋 𝟐𝟎𝟐𝟓.
 
-Previously, I served as a Research Engineer at AIMS Lab, United International University ([UIU](https://www.uiu.ac.bd/)), Bangladesh, where I worked on the project “AIMScribe: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation”.
+Earlier research includes XL-HeadTags (multimodal, multilingual headline & tag generation — 𝐀𝐂𝐋 𝟐𝟎𝟐𝟒) and Shironaam, a large-scale Bengali headline generation dataset and model (240K+ pairs — 𝐄𝐀𝐂𝐋 𝟐𝟎𝟐𝟑). Across these projects, I focused on designing retrieval-augmented generation pipelines, leveraging auxiliary multimodal signals, building and curating large multilingual datasets, and developing evaluation metrics that align with human judgment.
 
-<!-- My recent works and ongoing projects can be found in the [Research](https://abuubaida.github.io/research/ "https://abuubaida.github.io/research/") section. -->
+Technically, I specialize in LLMs & transformers, prompt engineering, transformer fine-tuning (encoder–decoder), retrieval-augmented generation, multimodal/multilingual retrieval, long-document handling (coarse-to-fine retrieval), dataset engineering for low-resource languages, and evaluation metric design. I also have experience designing privacy-first speech data collection pipelines and governance for clinical settings.
 
-Prior to that, I held the position of Machine Learning Research Engineer at [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/") in the Speech and Engineering Division. I earned my bachelor’s degree in Computer Science and Engineering from Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/ "https://www.aust.edu/")), Dhaka, Bangladesh.
+I am now seeking full-time opportunities as a 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 / 𝐍𝐋𝐏 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐨𝐫 𝐀𝐩𝐩𝐥𝐢𝐞𝐝) to contribute to impactful projects in language understanding, generative AI, and scalable deployment. Open to opportunities in Canada / Remote.
 
 
 <img src="https://img.icons8.com/color/24/000000/circled-envelope.png"/> **Email:** <span style="color:Blue">akash [dot] ubaida [at] gmail [dot] com</span> 
