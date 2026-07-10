@@ -13,7 +13,7 @@ I go by the name 𝐔𝐛𝐚𝐢𝐝𝐚. I recently graduated with an 𝐌𝐒
 
 Earlier research includes XL-HeadTags (multimodal, multilingual headline & tag generation — 𝐀𝐂𝐋 𝟐𝟎𝟐𝟒) and Shironaam, a large-scale Bengali headline generation dataset and model (240K+ pairs — 𝐄𝐀𝐂𝐋 𝟐𝟎𝟐𝟑). Across these projects, I focused on designing retrieval-augmented generation pipelines, leveraging auxiliary multimodal signals, building and curating large multilingual datasets, and developing evaluation metrics that align with human judgment.
 
-Technically, I specialize in LLMs & transformers, prompt engineering, transformer fine-tuning (encoder–decoder), retrieval-augmented generation, multimodal/multilingual retrieval, long-document handling (coarse-to-fine retrieval), dataset engineering for low-resource languages, and evaluation metric design. I also have experience designing privacy-first speech data collection pipelines and governance for clinical settings.
+Currently, I am working on developing Agentic AI based solutions. My previous work included various NLP tasks *i.e.* stance detection, abstractive summarization, and named entity recognition, with a focus on zero-shot and few-shot learning using large language models. I have experience in evaluation metric design and LLM evaluation, developing RAG application(s), alongside prompt engineering techniques. I have also worked with model fine-tuning of transformer-based architectures for low-resource and multilingual settings. Recently, I have been learning about MLOps and system design.
 
 I am now seeking full-time opportunities as a 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 / 𝐍𝐋𝐏 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐨𝐫 𝐀𝐩𝐩𝐥𝐢𝐞𝐝) to contribute to impactful projects in language understanding, generative AI, and scalable deployment. Open to opportunities in Canada / Remote.
 
@@ -24,6 +24,7 @@ I am now seeking full-time opportunities as a 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋�
 
 ## 📢 Recent News
 
+*(not up-t-date)*
 * <span style="color:RoyalBlue">[May 15, 2024]</span> One long paper has been accepted at ACL 2024 (findings).
 * <span style="color:RoyalBlue">[May 01, 2024]</span> Received the Marc-Andr´e Roy scholarship from UdeS.
 * <span style="color:RoyalBlue">[Sep 01, 2023]</span> Started pursuing my master's and working as a Graduate Student Researcher at UdeS.

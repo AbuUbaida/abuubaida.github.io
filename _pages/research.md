@@ -25,35 +25,36 @@ author_profile: true
 
 ---
 
-* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Can Large Language Models Address Open-Target Stance Detection?](https://arxiv.org/abs/2409.00222) \\
+* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Can Large Language Models Address Open-Target Stance Detection?](https://aclanthology.org/2025.findings-acl.54/) \\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> <b>Abu Ubaida Akash</b>, Ahmed Fahmy, Amine Trabelsi \\
-<!-- <img src="https://img.icons8.com/external-fauzidea-blue-fauzidea/20/null/external-journal-back-to-school-fauzidea-blue-fauzidea.png"/> <span style="color:RoyalBlue">Journal:</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\ -->
-<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review`
+<img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> Findings of Association for Computational Linguistics ([ACL 2025](https://2025.aclweb.org/))\\->
+<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted` *(2025)*\\
+<img src="https://abuubaida.github.io/images/pointer.png"/> [<span style ="color:DarkBlue">[Code & Dataset]</span>](https://github.com/AbuUbaida/opentarget) 
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](https://aclanthology.org/2024.findings-acl.771/)\\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Faisal Shohan\*, Mir Tafseer Nayeem\*, Samsul Islam, <b>Abu Ubaida Akash</b>, Shafiq Joty\\
 <img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> Findings of Association for Computational Linguistics ([ACL 2024](https://2024.aclweb.org/))\\
-<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted`\\
+<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted` *(2024)*\\
 <img src="https://abuubaida.github.io/images/pointer.png"/> [<span style ="color:DarkBlue">[Code & Dataset]</span>](https://github.com/faisaltareque/XL-HeadTags)   
 <!-- [<span style ="color:DarkBlue">[Poster]</span>](https://abuubaida.github.io/files/shironaam_eacl2023_poster_final.pdf)  [<span style ="color:DarkBlue">[Slides]</span>](https://abuubaida.github.io/files/Shironaam_EACL_2023_Presentation.pdf) -->
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Shironaam: Bengali News Headline Generation using Auxiliary Information](https://aclanthology.org/2023.eacl-main.4/)\\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> <b>Abu Ubaida Akash</b>\*, Mir Tafseer Nayeem\*, Faisal Tareque Shohan, Tanvir Islam\\
 <img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> Proceedings of the European Chapter of the Association for Computational Linguistics ([EACL 2023](https://2023.eacl.org/))\\
-<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted`\\
+<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted` *(2023)*\\
 <img src="https://abuubaida.github.io/images/pointer.png"/> [<span style ="color:DarkBlue">[Code & Dataset]</span>](https://github.com/dialect-ai/BenHeadGen)   
 <!-- [<span style ="color:DarkBlue">[Poster]</span>](https://abuubaida.github.io/files/shironaam_eacl2023_poster_final.pdf)  [<span style ="color:DarkBlue">[Slides]</span>](https://abuubaida.github.io/files/Shironaam_EACL_2023_Presentation.pdf) -->
 
-
+<!-- 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Automating Clinical Documentation: A Comprehensive Systematic Review of NLP Techniques and Challenges in Digital Scribing](https://abuubaida.github.io/files/aimscribe_journal.pdf) \\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Md. Faiyed Bin Karim, <b>Abu Ubaida Akash</b>, Sakib Zaman, Shehan Irteza Pranto, Marzia Zaman, Farhana Sarkar, Mohammad Nurul Huda, Nabeel Mohammed, Shariful Islam, Iman Abdollah Dehzangi, Khondaker Abdullah Al Mamun\\
 <!-- <img src="https://img.icons8.com/external-fauzidea-blue-fauzidea/20/null/external-journal-back-to-school-fauzidea-blue-fauzidea.png"/> <span style="color:RoyalBlue">Journal:</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\ -->
-<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review`
+<!-- <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review` --> -->
 
-* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Crime Prediction using Machine Learning with a Novel Crime Dataset](https://arxiv.org/abs/2211.01551) \\
+* <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [A data-driven approach for predicting crime occurrence using machine learning models](https://link.springer.com/article/10.1007/s41060-025-00799-8) \\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Faisal Tareque Shohan\*, <b>Abu Ubaida Akash</b>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
-<!-- <img src="https://img.icons8.com/external-fauzidea-blue-fauzidea/20/null/external-journal-back-to-school-fauzidea-blue-fauzidea.png"/> <span style="color:RoyalBlue">Journal:</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\ -->
-<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review`
+<img src="https://img.icons8.com/external-fauzidea-blue-fauzidea/20/null/external-journal-back-to-school-fauzidea-blue-fauzidea.png"/> <span style="color:RoyalBlue">Journal:</span>  International Journal of Data Science and Analytics ([link](https://link.springer.com/journal/41060))\\
+<img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted` *(2025)*
 
 <!-- ## Ongoing Projects
 
