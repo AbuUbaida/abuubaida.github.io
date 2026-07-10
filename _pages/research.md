@@ -27,7 +27,7 @@ author_profile: true
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Can Large Language Models Address Open-Target Stance Detection?](https://aclanthology.org/2025.findings-acl.54/) \\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> <b>Abu Ubaida Akash</b>, Ahmed Fahmy, Amine Trabelsi \\
-<img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> Findings of Association for Computational Linguistics ([ACL 2025](https://2025.aclweb.org/))\\->
+<img src="https://img.icons8.com/ultraviolet/20/null/performance.png"/> <span style="color:RoyalBlue">Conference:</span> Findings of Association for Computational Linguistics ([ACL 2025](https://2025.aclweb.org/))\\
 <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `accepted` *(2025)*\\
 <img src="https://abuubaida.github.io/images/pointer.png"/> [<span style ="color:DarkBlue">[Code & Dataset]</span>](https://github.com/AbuUbaida/opentarget) 
 
@@ -49,7 +49,7 @@ author_profile: true
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [Automating Clinical Documentation: A Comprehensive Systematic Review of NLP Techniques and Challenges in Digital Scribing](https://abuubaida.github.io/files/aimscribe_journal.pdf) \\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Md. Faiyed Bin Karim, <b>Abu Ubaida Akash</b>, Sakib Zaman, Shehan Irteza Pranto, Marzia Zaman, Farhana Sarkar, Mohammad Nurul Huda, Nabeel Mohammed, Shariful Islam, Iman Abdollah Dehzangi, Khondaker Abdullah Al Mamun\\
 <!-- <img src="https://img.icons8.com/external-fauzidea-blue-fauzidea/20/null/external-journal-back-to-school-fauzidea-blue-fauzidea.png"/> <span style="color:RoyalBlue">Journal:</span> Cybernetics and Systems Journal ([UCBS](https://www.tandfonline.com/journals/ucbs20))\\ -->
-<!-- <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review` --> -->
+<!-- <img src="https://img.icons8.com/fluency/20/null/progress-indicator.png"/> <span style="color:RoyalBlue">Status:</span> `under-review` -->
 
 * <img src="https://img.icons8.com/color/20/null/document-header.png"/> <span style="color:RoyalBlue">Title:</span> [A data-driven approach for predicting crime occurrence using machine learning models](https://link.springer.com/article/10.1007/s41060-025-00799-8) \\
 <img src="https://img.icons8.com/ultraviolet/20/null/groups.png"/> <span style="color:RoyalBlue">Collaborators:</span> Faisal Tareque Shohan\*, <b>Abu Ubaida Akash</b>\*, Muhammad Ibrahim, Mohammad Shafiul Alam \\
