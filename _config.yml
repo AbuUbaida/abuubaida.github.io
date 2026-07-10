@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=NNzlEFQAAAAJ&hl=en&authuser=2"
   email            : "akash.ubaida@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Abu-Ubaida-Akash?ev=hdr_xprf" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
