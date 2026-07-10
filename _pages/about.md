@@ -22,7 +22,7 @@ I am seeking full-time opportunities as a **Machine Learning** / **NLP Enigneer*
 
 ## 📢 Recent News
 
-*(not up-t-date)*
+*(not up-to-date)*
 * <span style="color:RoyalBlue">[May 15, 2024]</span> One long paper has been accepted at ACL 2024 (findings).
 * <span style="color:RoyalBlue">[May 01, 2024]</span> Received the Marc-Andr´e Roy scholarship from UdeS.
 * <span style="color:RoyalBlue">[Sep 01, 2023]</span> Started pursuing my master's and working as a Graduate Student Researcher at UdeS.
