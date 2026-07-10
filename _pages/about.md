@@ -9,13 +9,11 @@ redirect_from:
 
 Thanks for stopping by!!
 
-I go by the name 𝐔𝐛𝐚𝐢𝐝𝐚. I recently graduated with an 𝐌𝐒𝐜 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 (Université de Sherbrooke). My master’s thesis introduced Open-Target Stance Detection (OTSD) — a realistic stance detection setting where targets are not provided at inference — and evaluated LLMs (GPT, Gemini, Llama, Mistral) for target generation and stance classification. That work was published at 𝐀𝐂𝐋 𝟐𝟎𝟐𝟓.
-
-Earlier research includes XL-HeadTags (multimodal, multilingual headline & tag generation — 𝐀𝐂𝐋 𝟐𝟎𝟐𝟒) and Shironaam, a large-scale Bengali headline generation dataset and model (240K+ pairs — 𝐄𝐀𝐂𝐋 𝟐𝟎𝟐𝟑). Across these projects, I focused on designing retrieval-augmented generation pipelines, leveraging auxiliary multimodal signals, building and curating large multilingual datasets, and developing evaluation metrics that align with human judgment.
+I go by the name 𝐔𝐛𝐚𝐢𝐝𝐚. I have graduated with an MSc in Computer Science from Université de Sherbrooke, Canada (QC). During my graduate research, I introduced Open-Target Stance Detection, a zero-shot framework that jointly generates targets and detects stances from raw text, which I evaluated across multiple LLMs and datasets and published as the leading author at **ACL 2025**. Earlier, I worked as a Research Engineer on a national-scale medical scribing project, architecting data pipelines for a clinical named entity recognition model. And earlier still, I developed the Shironaam corpus and a multimodal headline generation system for Bengali news, a low-resource language, resulting in publications at **EACL 2023** and **ACL 2024**.
 
 Currently, I am working on developing Agentic AI based solutions. My previous work included various NLP tasks *i.e.* stance detection, abstractive summarization, and named entity recognition, with a focus on zero-shot and few-shot learning using large language models. I have experience in evaluation metric design and LLM evaluation, developing RAG application(s), alongside prompt engineering techniques. I have also worked with model fine-tuning of transformer-based architectures for low-resource and multilingual settings. Recently, I have been learning about MLOps and system design.
 
-I am now seeking full-time opportunities as a 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 / 𝐍𝐋𝐏 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐨𝐫 𝐀𝐩𝐩𝐥𝐢𝐞𝐝) to contribute to impactful projects in language understanding, generative AI, and scalable deployment. Open to opportunities in Canada / Remote.
+I am seeking full-time opportunities as a **Machine Learning** / **NLP Enigneer** *(Research or Applied)* to contribute to impactful projects in language understanding, generative AI, and scalable deployment. Open to opportunities in Canada / Remote.
 
 
 <img src="https://img.icons8.com/color/24/000000/circled-envelope.png"/> **Email:** <span style="color:Blue">akash [dot] ubaida [at] gmail [dot] com</span> 
