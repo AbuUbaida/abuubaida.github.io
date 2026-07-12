@@ -9,18 +9,41 @@ author_profile: true
 
 ---
 
-### BenSim
+### [Government Auto Insurance QA Assistant](https://github.com/AbuUbaida/saaq_qa_assistant)
+* Built and deployed an end-to-end Retrieval-Augmented Generation (RAG) system to answer regulatory questions about Quebec auto insurance, reducing hallucinations by grounding LLM responses in retrieved legal documents using Weaviate, LangChain, and HuggingFace models.
+* Designed a hybrid retrieval pipeline (semantic + keyword search) that indexes web and PDF content into a vector database, embeds user queries locally, and returns citation-backed answers with tracked latency and streaming support.
+* Engineered a microservice architecture with FastAPI (backend), Streamlit (frontend), and Weaviate (vector DB), containerized using Docker for reliable inter-service communication, and deployed to a live production environment.
+* Implemented systematic evaluation and observability for the RAG pipeline using RAGAS for faithfulness, answer relevancy, and context precision, and Phoenix (Arize) with OpenTelemetry to collect telemetry data for monitoring, debugging, and iterative quality improvements in production.
+
+### [Open-Target Stance Detection](https://github.com/AbuUbaida/opentarget)
+* Deﬁned and implemented Open-Target Stance Detection (OTSD), a novel zero-shot framework that eliminates the need for predeﬁned target lists by jointly performing target generation (TG) and stance detection (SD) from raw text.
+* Engineered a custom evaluation metric (BTSD) by ﬁne-tuning a BERTweet classiﬁer on a consolidated dataset of 19 targets, achieving a high correlation with human judgment (tau 0.85) to validate target quality.
+* Executed a large-scale comparative analysis of 8 LLMs, including proprietary (GPT, Gemini) and open-source models (Llama-3, Mistral), across 14,000+ samples from 3 real-world datasets (TSE, VAST, and EZSTANCE) on a high-performance computing (HPC) server.
+* Optimized prompt engineering strategies, demonstrating that joint prompting (TG&SD) signiﬁcantly outperforms sequential workﬂows and Chain-of-Thought (CoT) in maintaining  target-stance coherence.
+* Achieved a 13% absolute F1 improvement over the State-of-the-Art (SOTA) TSE baseline, with Mistral-Large reaching a macro F1 of 51.3% on explicit targets and 50.4% on  challenging implicit targets.
+* Conducted systematic error analysis on low-context, non-explicit posts, identifying semantic drift in zero-shot models and proposing an LLM-based "coherence judge" to improve multi-target alignment.
+
+
+### [Bangla News Headline Generation](https://github.com/dialect-ai/BenHeadGen)
+* Engineered the Shironaam corpus, a benchmark dataset of 240,000+ Bengali news articles integrated with multimodal auxiliary data, including image captions, topic keywords, and 13 category labels.
+* Built a comprehensive preprocessing pipeline to clean 900,000 raw samples crawled from 7 major dailies, utilizing regex and frequency-based ﬁltering to eliminate boilerplate text and noisy caption tokens.
+* Developed an encoder-decoder (BED) model using BanglaBERT as the backbone, leveraging a BERT-to-BERT framework to achieve high-quality abstractive summarization in a low-resource language setting.
+* Designed BenSim, a BERT-powered semantic similarity module that performs coarse-to-ﬁne ﬁltering of long article to select the top k topically-relevant sentences, eﬀectively managing the 512-token input constraint.
+* Implemented a parallel fusion strategy that concatenates image captions and topic-ﬁltered sentences, yielding a 17.5% increase in ROUGE-1 scores compared to the article-only base model.
+* Outperformed standard baselines (LEAD-1, IndicBART, and BanglaT5) by 3–10% across all metrics, achieving a peak ROUGE-1 of 52.19 and BLEU of 31.80.
+* Fine-tuned the 249M-parameter model using HuggingFace and AdamW optimization for 110k steps, utilizing beam-search with length penalties and n-gram constraints to ensure headline ﬂuency.
+* Conducted a domain-wise evaluation across 13 categories, demonstrating consistent performance gains in few-shot domains (e.g., Economy, Life-Health) where training data was limited.
+
+### [BenSim](https://github.com/dialect-ai/BenSim)
 * A Python package for measuring the semantic similarity among sentences in the Bengali language.
 * Users will provide a reference sentence and a list of target sentences as input; and optionally the similarity assessment approach _(Default: Cosine Similarity)_ and the maximum sequence length _(Default: 512)_. The length will be calculated in terms of the number of tokens using the [WordPiece tokenizer](https://huggingface.co/course/chapter6/6?fw=pt#tokenization-algorithm). Currently, the maximum sequence length limit is 512.
 * BenSim will perform [normalization](https://github.com/csebuetnlp/normalizer) on the input texts and extract the contextual embeddings of the reference sentence and target sentences through a [pre-trained BERT](https://huggingface.co/sagorsarker/bangla-bert-base) model. The similarities will be measured between each of the sentence pairs by applying either [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance) or [Cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity) (based on the input parameter).
 * Finally, this will return a list of similarity scores between the reference sentence and the target sentences. If the assessment method is `cosine`, the higher scores will denote higher similarity, and the opposite will be for `euclidean`.
-* Detail usage can be found [here](https://anonymous.4open.science/r/bensim "GitHub").
 
-### mSentsTokenizer
+### [mSentsTokenizer](https://github.com/AbuUbaida/mSentsTokenizer)
 * A Python package for tokenizing multilingual documents at the sentence level.
 * Users will provide a document to be segmented and the language of the document as input. Currently, there are supports for **41 languages** ranging from low to high resource, which belong to **10 language families** ( _i.e._ Afro-Asiatic, Indo-European, Sino-Tibetan, Austronesian, Japanese, Altaic, Dravidian, Tai-Kadai, Austro-Asiatic, and Niger-Congo).
 * mSentsTokenizer matches the input language with the [available supports](https://github.com/AbuUbaida/mSentsTokenizer#invoked-libraries) of language from the pre-existing packages and simply invokes the corresponding package to tokenize the input document. Finally, this will return a list of sentences as the output.
-* Detail usage can be found [here](https://github.com/AbuUbaida/mSentsTokenizer "GitHub").
 
 
 
