@@ -13,7 +13,7 @@ I go by the name Ubaida. I have graduated with an MSc in Computer Science from U
 
 Currently, I am working on developing Agentic AI based solutions. My previous work included various NLP tasks *i.e.* stance detection, abstractive summarization, and named entity recognition, with a focus on zero-shot and few-shot learning using large language models. I have experience in evaluation metric design and LLM evaluation, developing RAG application(s), alongside prompt engineering techniques. I have also worked with model fine-tuning of transformer-based architectures for low-resource and multilingual settings. Recently, I have been learning about MLOps and system design.
 
-I am seeking full-time opportunities for enigeering roles (Research or Applied) relaed to ML/NLP. **Machine Learning** / **NLP Enigneer** ** to contribute to impactful projects in language understanding, generative AI, and scalable deployment. Open to opportunities in Canada / Remote.
+I am seeking full-time opportunities in enigeering roles (Research or Applied) related to ML/NLP. Open to relocate / Remote.
 
 
 <img src="https://img.icons8.com/color/24/000000/circled-envelope.png"/> **Email:** <span style="color:Blue">akash [dot] ubaida [at] gmail [dot] com</span> 

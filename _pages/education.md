@@ -12,12 +12,12 @@ author_profile: true
 * **Period:** August 2023 – September 2025
 * **Institution:** Université de Sherbrooke ([UdeS](https://www.usherbrooke.ca/)), Sherbrooke, Quebec, Canada
 * **Supervisor:** Dr. [Amine Trabelsi](https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/amine-trabelsi, "Academic Profile"), Assistant Professor, Department of Computer Science
-* **Research Topic:** Stance Detection
+* **Research topic:** Stance Detection
 * **Thesis title:** Open-target stance detection: a new task explored with large language models
 * **Thesis presentation:** Slide [link](https://abuubaida.github.io/files/msc_presentation.pdf)
 * **CGPA**: 4.1 _[on a scale of 4.3]_
 * **Selected coursework:** Deep Learning Fundamentals, Natural Language Processing, Generative AI with LLMs, Machine Learning for Graphs, Fundamentals of Reinforcement Learning
-* **Cumulative Credit Completed:** 45
+* **Cumulative credit completed:** 45
 
 
 
@@ -29,10 +29,10 @@ author_profile: true
 * **Institution:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")), Dhaka, Bangladesh
 * **CGPA:** 3.52 _[on a scale of 4.0]_
     * **<span style="color:RoyalBlue">Major CGPA:</span>** 3.72 _[last two years]_
-* **Cumulative Credit Completed:** 161.25
-* **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data _[[paper](https://abuubaida.github.io/files/bsc_thesis_paper_2022.pdf "Paper PDF")]_
-* **Thesis Presentation:** Presentation [Slide](https://abuubaida.github.io/files/bsc_thesis_presentation_2022.pdf "Presentation PDF")
-* **Supervisor:** Prof. Dr. [Mohammad Shafiul Alam](https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam, "Academic Profile"), Professor & Head, CSE Department
+* **Cumulative credit completed:** 161.25
+* **Thesis title:** Development of Machine Learning Models for Crime Prediction using Historical Data _[[paper](https://abuubaida.github.io/files/bsc_thesis_paper_2022.pdf "Paper PDF")]_
+* **Thesis presentation:** Slide [link](https://abuubaida.github.io/files/bsc_thesis_presentation_2022.pdf "Presentation PDF")
+* **Supervisor:** Dr. [Mohammad Shafiul Alam](https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam, "Academic Profile"), Professor & Head, CSE Department
 
 <!-- * **Selected Courseworks:** Courses listed below are in ascending order by semester, except Mathematics and Software Development,
     * Mathematics(I-IV) _(CSE 1115,1219,2101,2203)_
