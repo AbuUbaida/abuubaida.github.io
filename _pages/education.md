@@ -33,7 +33,7 @@ author_profile: true
 * **Thesis Title:** Development of Machine Learning Models for Crime Prediction using Historical Data _[[paper](https://abuubaida.github.io/files/bsc_thesis_paper_2022.pdf "Paper PDF")]_
 * **Thesis Presentation:** Presentation [Slide](https://abuubaida.github.io/files/bsc_thesis_presentation_2022.pdf "Presentation PDF")
 * **Supervisor:** Prof. Dr. [Mohammad Shafiul Alam](https://www.aust.edu/cse/faculty_member/dr_mohammad_shafiul_alam, "Academic Profile"), Professor & Head, CSE Department
-  
+
 <!-- * **Selected Courseworks:** Courses listed below are in ascending order by semester, except Mathematics and Software Development,
     * Mathematics(I-IV) _(CSE 1115,1219,2101,2203)_
     * Software Development(I-V) _(CSE 1200,2100,2200,3100,3200)_
@@ -51,7 +51,6 @@ author_profile: true
     * Pattern Recognition _(CSE4213)_
     * Digital Image Processing _(CSE4227)_
     * Soft Computing _(CSE4237)_ -->
-
 
 
 ## <img src="https://img.icons8.com/office/20/000000/diploma.png"/> Higher Secondary Certificate (H.S.C.) in Science

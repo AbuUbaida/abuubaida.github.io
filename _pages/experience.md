@@ -11,9 +11,21 @@ author_profile: true
 
 ---
 
+* **Graduate Student Researcher**\\
+[AIMS Lab](https://aimsl.uiu.ac.bd/#/ "https://aimsl.uiu.ac.bd/"), [UIU](https://www.uiu.ac.bd/), Dhaka, Bangladesh\\
+    * Period: September 2023 – August 2025
+    * Supervisor: [Dr. Khondaker Abdullah Al Mamun](https://www.kmamun.com/)
+    * Project: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation (AIMScribe)
+    * Designing protocol for collecting audio data and automatically transcribing them.
+    * Designing experiments for speaker diarization, NER, and summarization in the Bengali language.
+    * Applying different NLP, speech processing, and machine learning techniques to produce deliverable output.
+    * Writing high-quality research articles on the AIMScribe project.
+<br/>
+<br/>
+
 * **Research Engineer** _(Speech & NLP)_\\
 [AIMS Lab](https://aimsl.uiu.ac.bd/#/ "https://aimsl.uiu.ac.bd/"), [UIU](https://www.uiu.ac.bd/), Dhaka, Bangladesh\\
-    * **Period:** _February 2023 – May 2023_
+    * Period: February 2023 – May 2023
     * Supervisor: [Dr. Khondaker Abdullah Al Mamun](https://www.kmamun.com/)
     * Project: Automated and Intelligent Medical Scriber for Doctor-Patient Conversation (AIMScribe)
     * Designing protocol for collecting audio data and automatically transcribing them.
@@ -25,7 +37,7 @@ author_profile: true
 
 * **Machine Learning Research Engineer**\\
 [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
-    * **Period:** _September 2021 – April 2022_
+    * Period: September 2021 – April 2022
     * Implemented a G2P model for Bengali and gained state-of-the-art accuracy (99%) on unseen data.
     * Prepared large-scale (nearly 600 hours) audio data for better Bengali ASR training.
     * Speech synthesis: Implemented Coqui TTS models for low-resourced language like Bengali.
@@ -36,7 +48,7 @@ author_profile: true
 
 * **Machine Learning Research Intern**\\
 [Intelsense AI](https://intelsense.ai/ "https://intelsense.ai/"), Dhaka, Bangladesh\\
-    * **Period:** _June 2021 – August 2021_
+    * Period: June 2021 – August 2021
     * Developed the pipeline for Bengali text normalization and punctuation restoration.
     * Reviewed the literature of the related technologies.
 
@@ -47,16 +59,16 @@ author_profile: true
 ---
 
 * **Reviewer** at [COLING 2025](https://coling2025.org/) (Abu Dhabi, UAE)
-    * **Period:** _Oct 2024 – Nov 2024_
+    * Period: Oct 2024 – Nov 2024
 
 * **Manager**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/)), Canada
-    * **Period:** _Nov 2024 – Nov 2025_
+    * Period: Nov 2024 – Nov 2025
 
 <!-- * **Member**, Committee of External Affairs at the Association of the Muslims of University of Sherbrooke ([AMUS](https://www.instagram.com/amus_uds/))
     * **Period:** _Nov 2023 – Oct 2024_ -->
 
 * **Student Volunteer** at [EACL](https://2023.eacl.org/calls/volunteers/) (Dubrovnik, Croatia)
-    * **Period:** _May 2023 – May 2023_
+    * Period: May 2023 – May 2023
     * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions
 
 <!-- * **General Member** at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
@@ -65,7 +77,7 @@ author_profile: true
     * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")) -->
 
 * **Communication Responsible** at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website"), Bangladesh
-    * **Period:** _January 2018 – January 2018_
+    * Period: January 2018 – January 2018
     * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
 
 <!-- * **Content Developer** at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
