@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-* **Period:** _August 2023 – September 2025
+* **Period:** August 2023 – September 2025
 * **Institution:** Université de Sherbrooke ([UdeS](https://www.usherbrooke.ca/)), Sherbrooke, Quebec, Canada
 * **Supervisor:** Dr. [Amine Trabelsi](https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/amine-trabelsi, "Academic Profile"), Assistant Professor, Department of Computer Science
 * **Research Topic:** Stance Detection
@@ -25,7 +25,7 @@ author_profile: true
 
 ---
 
-* **Period:** _May 2017 – January 2022_
+* **Period:** May 2017 – January 2022
 * **Institution:** Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/")), Dhaka, Bangladesh
 * **CGPA:** 3.52 _[on a scale of 4.0]_
     * **<span style="color:RoyalBlue">Major CGPA:</span>** 3.72 _[last two years]_
@@ -57,7 +57,7 @@ author_profile: true
 
 ---
 
-* **Period:** _July 2014 – July 2016_
+* **Period:** July 2014 – July 2016
 * **Institution:** Adamjee Cantonment College ([ACC](http://mail.acc.edu.bd/, "http://mail.acc.edu.bd/")), Dhaka, Bangladesh
 * **GPA:** 5.0 _[on a scale of 5.0]_
 
@@ -67,7 +67,7 @@ author_profile: true
 
 ---
 
-* **Period:** _January 2012 – January 2014_
+* **Period:** January 2012 – January 2014
 * **Institution:** Uttara High School and College ([UHSC](http://uhscdhaka.edu.bd/ "http://uhscdhaka.edu.bd/")), Dhaka, Bangladesh
 * **GPA:** 5.0 _[on a scale of 5.0]_
 
