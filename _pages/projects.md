@@ -15,6 +15,7 @@ author_profile: true
 * Engineered a microservice architecture with FastAPI (backend), Streamlit (frontend), and Weaviate (vector DB), containerized using Docker for reliable inter-service communication, and deployed to a live production environment.
 * Implemented systematic evaluation and observability for the RAG pipeline using RAGAS for faithfulness, answer relevancy, and context precision, and Phoenix (Arize) with OpenTelemetry to collect telemetry data for monitoring, debugging, and iterative quality improvements in production.
 
+
 ### [Open-Target Stance Detection](https://github.com/AbuUbaida/opentarget)
 * Deﬁned and implemented Open-Target Stance Detection (OTSD), a novel zero-shot framework that eliminates the need for predeﬁned target lists by jointly performing target generation (TG) and stance detection (SD) from raw text.
 * Engineered a custom evaluation metric (BTSD) by ﬁne-tuning a BERTweet classiﬁer on a consolidated dataset of 19 targets, achieving a high correlation with human judgment (tau 0.85) to validate target quality.
@@ -34,11 +35,13 @@ author_profile: true
 * Fine-tuned the 249M-parameter model using HuggingFace and AdamW optimization for 110k steps, utilizing beam-search with length penalties and n-gram constraints to ensure headline ﬂuency.
 * Conducted a domain-wise evaluation across 13 categories, demonstrating consistent performance gains in few-shot domains (e.g., Economy, Life-Health) where training data was limited.
 
+
 ### [BenSim](https://github.com/dialect-ai/BenSim)
 * A Python package for measuring the semantic similarity among sentences in the Bengali language.
 * Users will provide a reference sentence and a list of target sentences as input; and optionally the similarity assessment approach _(Default: Cosine Similarity)_ and the maximum sequence length _(Default: 512)_. The length will be calculated in terms of the number of tokens using the [WordPiece tokenizer](https://huggingface.co/course/chapter6/6?fw=pt#tokenization-algorithm). Currently, the maximum sequence length limit is 512.
 * BenSim will perform [normalization](https://github.com/csebuetnlp/normalizer) on the input texts and extract the contextual embeddings of the reference sentence and target sentences through a [pre-trained BERT](https://huggingface.co/sagorsarker/bangla-bert-base) model. The similarities will be measured between each of the sentence pairs by applying either [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance) or [Cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity) (based on the input parameter).
 * Finally, this will return a list of similarity scores between the reference sentence and the target sentences. If the assessment method is `cosine`, the higher scores will denote higher similarity, and the opposite will be for `euclidean`.
+
 
 ### [mSentsTokenizer](https://github.com/AbuUbaida/mSentsTokenizer)
 * A Python package for tokenizing multilingual documents at the sentence level.
